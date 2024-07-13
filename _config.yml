@@ -177,6 +177,7 @@ exclude:
   - tmp
   - TODO
   - FORMATTING.md
+  - CNAME
 keep_files:
   - .git
   - .svn
