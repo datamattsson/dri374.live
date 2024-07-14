@@ -27,7 +27,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "datamattsson/dri374.live" # GitHub username/repo-name e.g. "datamattsson/dri374.live"
 teaser                   : "/assets/images/teaser-600x400.png"
 logo                     : "/assets/images/masthead-88x88.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "DRI374.LIVE PINBALL STREAMING"
+masthead_title           : "DRI374 STREAMING"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
 enable_copy_code_button  : true #, false (default)
