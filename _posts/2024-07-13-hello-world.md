@@ -10,9 +10,9 @@ tags:
 - events
 #- opinions
 #- news
-#header:
-#  teaser: /assets/images/hello-world.png
-#  og_image: /assets/images/hello-world-og.png
+header:
+  teaser: /assets/images/blogs/hello-world/teaser.png
+  og_image: /assets/images/blogs/hello-world/og.png
 
 # These are all true by default _config.yml
 
