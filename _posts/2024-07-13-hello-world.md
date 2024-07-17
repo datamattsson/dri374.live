@@ -26,7 +26,7 @@ header:
 #layout: no <-- No matter how much Google begs, MM does not use layouts for posts
 
 # Advanced forward facing
-#permalink: /holyshite/this/needs/its/own/url
+permalink: /blog/hello-world/
 #published: false
 #date: YYYY-MM-DD HH:MM:SS +/-TTTT (H:M:S TTTT is optional)
 #last_modified_at: 2017-10-26T15:12:19-04:00
