@@ -4,8 +4,8 @@ main:
     url: /
   - title: "Blog"
     url: /blog
-#  - title: "Gear"
-#    url: /gear
+  - title: "Gear"
+    url: /gear
   - title: "Swag"
     url: /swag
   - title: "RigC <i class='fa-solid fa-arrow-up-right-from-square'></i>"
