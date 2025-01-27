@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 gem "github-pages", group: :jekyll_plugins
-gem "minimal-mistakes-jekyll"
+gem "minimal-mistakes-jekyll", path: "../minimal-mistakes"
 gem "rake"
 
 gem "tzinfo-data"
@@ -17,4 +17,5 @@ group :jekyll_plugins do
   gem "jekyll-include-cache"
   gem "jekyll-algolia"
   gem "jekyll-data"
+  gem "jekyll-remote-theme"
 end
