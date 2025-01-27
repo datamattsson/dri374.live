@@ -47,7 +47,7 @@ This page contains the rough bill of materials for various streaming rig setups 
 - [Raccoon City Arcade](#raccoon-city-arcade) (the candy cab rig)
 - [The Pocket Rig](#the-pocket-rig) (tournament and event rig)
 - [Lynn's Arcade](#lynns-arcade) in Seaside, CA
-- [The Rewind](#the-rewind) in Sebastopol, CA
+- [The Rewind Arcade](#the-rewind-arcade) in Sebastopol, CA
 
 Make sure to check out the [Start Streaming Pinball!](https://youtu.be/AUOamxsqLo8) talk on YouTube and join us on Tilt Forums to discuss [Twitch/livestream setups](https://tiltforums.com/t/twitch-livestream-setups/107).
 
