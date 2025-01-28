@@ -46,6 +46,7 @@ This page contains the rough bill of materials for various streaming rig setups 
 - [Raccoon City Pinball](#raccoon-city-pinball) (the main home rig)
 - [Raccoon City Arcade](#raccoon-city-arcade) (the candy cab rig)
 - [The Pocket Rig](#the-pocket-rig) (tournament and event rig)
+- [Miscellaneous](#miscellaneous) (my favorite nick-nacks)
 - [Lynn's Arcade](#lynns-arcade) in Seaside, CA
 - [The Rewind Arcade](#the-rewind-arcade) in Sebastopol, CA
 
@@ -55,27 +56,30 @@ All the 8020 frames I've built stem from [this basic frame](https://docs.google.
 
 As this page is updated, the [changelog](#changelog) lists the changes.
 
+**FYI:** Most links below are Amazon affiliate links. No change in cost to you but a fraction of the margins goes to my Amazon store credit to continue this addiction.
+{: .notice--danger}
+
 # Raccoon City Pinball
 
 The home pinball rig has evolved since early 2020 when I built a makeshift COVID rig to stream my newly acquired Stranger Things. Today, my home arcade is more of a studio than an arcade. The entire rig is one homogeneous unit only tethered by a power cord.
 
 * [Macbook Pro M3 Max](https://amzn.to/4hrpnpw) laptop
 * [Black Magic Design UltraStudio 4K Mini](https://amzn.to/4hxHI4e) capture card
-* [OREI UHD-401MV 4x1 HDMI Multi-Viewer](https://amzn.to/4hu6cLV) with RigC
+* [OREI UHD-401MV 4x1 HDMI Multi-Viewer](https://amzn.to/4hu6cLV) with [RigC](https://github.com/datamattsson/rigc)
 * [Elgato Stream Deck MK.2](https://amzn.to/3WBBTeh)
 * [Elgato Stream Deck Pedal](https://amzn.to/3WBnoHb) for fast switching
 * [CalDigit Thunderbolt 3 Mini Dock](https://amzn.to/3E8RUlr) for more ports
 * [Anker 4-Port USB 3.0](https://amzn.to/3CkSs7j) for more ports
 * [Lilliput A11](https://amzn.to/4aDkbwz) for chat and stream monitoring
 * [Atomos Ninja 5.2"](https://amzn.to/40MYM0y) 4K HDMI recording monitor 
-* 2 x VILTROX L132T (out of stock [L116T](https://amzn.to/3WBWPBL) sub) LED lights
-* [Audio-Technica AT2040](https://amzn.to/42vJu1v) player mic with a dbx 286s
-* [Audio-Technica AE3000](https://amzn.to/42oSuWl) backbox mic on a dbx 166xs channel
-* [Shure PGA52-XLR](https://amzn.to/3E7xd9E) cabinet mic on the other dbx 166xs channel
+* 2 x VILTROX L132T (discontinued [L116T](https://amzn.to/3WBWPBL) sub) LED lights
+* [Audio-Technica AT2040](https://amzn.to/42vJu1v) player mic with a [dbx 286s](https://amzn.to/42wyf97)
+* [Audio-Technica AE3000](https://amzn.to/42oSuWl) backbox mic on a dbx 166xs (discontinued, sub [dbx 266xs](https://amzn.to/4jvoYEr)) channel
+* [Shure PGA52-XLR](https://amzn.to/3E7xd9E) cabinet mic on the other dbx 166xs (discontinued, sub [dbx 266xs](https://amzn.to/4jvoYEr)) channel
 * [Mackie 1202VLZ4](https://amzn.to/3CdY6It) mixer
 * [LUMIX GH5M2](https://amzn.to/42pZZfJ) playfield camera with a LUMIX G Vario 12-35mm lens
 * [LUMIX GH5M2](https://amzn.to/42pZZfJ) player camera with a [Laowa 6mm f/2 Zero-D](https://www.venuslens.net/product/laowa-6mm-f-2-zero-d-mft/) lens
-* LUMIX GX85 (out of stock, [G85](https://amzn.to/40vciVw) sub) score camera with LUMIX G Vario 12-60mm lens
+* LUMIX GX85 (discontinued, [G85](https://amzn.to/40vciVw) sub) score camera with LUMIX G Vario 12-60mm lens
 * [LUMIX GH5M2](https://amzn.to/42pZZfJ) B camera with various lenses
 * [Accsoon CineView HE](https://amzn.to/3CxGXcA) for local program output to the arcade TV
 * [Sony MDR-EX15LP](https://amzn.to/3E6hHdW) ear buds
@@ -86,7 +90,7 @@ The Atomos recorder uses the passthrough of the capture card and records the mul
 
 The candy cab rig is a half-height regular pinball rig. It uses the same laptop, player camera, player microphone and Stream Decks as the pinball rig.
 
-* [OREI UHD-401MV 4x1 HDMI Multi-Viewer](https://amzn.to/4hu6cLV) with RigC
+* [OREI UHD-401MV 4x1 HDMI Multi-Viewer](https://amzn.to/4hu6cLV) with [RigC](https://github.com/datamattsson/rigc)
 * [Elgato 4K X](https://www.elgato.com/us/en/p/game-capture-4k-x) capture card
 * [Anker 4-Port USB 3.0](https://amzn.to/3CkSs7j) for more ports
 * [Yamaha AG03MK2](https://amzn.to/3PT5rAm) mixer
@@ -108,11 +112,11 @@ This is the configuration that captured that notorious [Metallica game at Pinbal
 
 The only components shared with the home rig is the laptop and the Stream Deck. The Atomos recorder might go into this build for a higher quality event capture.
 
-* [OREI UHD-401MV 4x1 HDMI Multi-Viewer](https://amzn.to/4hu6cLV) with RigC
+* [OREI UHD-401MV 4x1 HDMI Multi-Viewer](https://amzn.to/4hu6cLV) with [RigC](https://github.com/datamattsson/rigc)
 * [AVerMedia Live Gamer Ultra 2.1](https://amzn.to/40Z4EEp) capture card
 * 2 x [RØDE VideoMic GO II](https://amzn.to/40OxW8A)
 * [Belkin Connect USB-CTM to 4-Port USB-C Hub](https://amzn.to/3ElUcgZ) for more ports
-* VILTROX L132T (out of stock [L116T](https://amzn.to/3WBWPBL) sub) LED light for the playfield
+* VILTROX L132T (discontinued [L116T](https://amzn.to/3WBWPBL) sub) LED light for the playfield
 * [Logitech Litra Glow](https://amzn.to/4giYP8W) player light
 * [LUMIX G85](https://amzn.to/40vciVw) with a LUMIX G FISHEYE 8mm f/3.5 lens
 * [Panasonic V785K](https://amzn.to/3ElUCE5) playfield camera
@@ -130,7 +134,7 @@ An additional harness is tacked onto the rig and make the mics go analog and add
 
 * [TP-Link AXE75](https://amzn.to/40zFwm8) mesh satellite
 * [KiloView N60](https://amzn.to/4jyquFN) NDI encoder
-* StarTech NETRS2321P (out of stock, [sub](https://amzn.to/3WvvWzy)) Serial-to-Ethernet for RigC
+* StarTech NETRS2321P (discontinued, [sub](https://amzn.to/3WvvWzy)) Serial-to-Ethernet for RigC
 * [Zoom AMS-44](https://amzn.to/4aASioN) mixer
 * [RØDE VideoMicro II](https://amzn.to/4jLHMQ7) for the cabinet
 
@@ -161,6 +165,26 @@ The multi day tournament transform uses all the gear from the single day transfo
 
 The additional headset is completely wireless for both monitoring and voice and allows the broadcaster to roam freely and commentate and manage the stream from anywhere in the venue.
 
+# Miscellaneous
+
+I've been through some gear over the years in terms of mounts, stands and other loose items to make life easier. This is a non-exhaustive list of favorites. 
+
+- SmallRig Magic Arms. Comes in two sizes, [9.8"](https://amzn.to/3WzMO80) and [5.5"](https://amzn.to/3Cg30Vl)
+- [CAMVATE crab clamp](https://amzn.to/3Eh127O). Nips perfectly into the 1515 extrusions and the rubber won't slip like with other brands.
+- [UGREEN USB-PD plug 160W](https://amzn.to/4hckWiK)
+- [Alfox USB-PD brick 200W](https://amzn.to/4aAvEwS)
+- [Manfrotto counterfeit quick release](https://amzn.to/40OUO7E). All my cameras have these. Although, I've started to flirt with the [HawkLock](https://amzn.to/40waxY5).
+- [ABS plastic](https://amzn.to/3CDUmzQ) to DIY hoods and barn doors for lights to prevent reflections.
+- The [Velcro](https://amzn.to/3WEy2NA) I use for for the hoods and barn doors.
+- The ["Velcro" rolls](https://amzn.to/3EbJl9H) I use to build wire harnesses.
+- A newer version of the [laptop stand](https://amzn.to/40RhmVq) I use.
+- [Schoche magnet mounts](https://amzn.to/40QqM3w). The laptop stand is peppered with these. Useful for small things, like USB hubs and capture cards.
+- [Desk and wall rack mount frame](https://amzn.to/4gmBZx7) for up to 6U. Mounts perfectly onto a 1515 profile, flat or vertical.
+- Flashner [CamCaddie cold shoe rails](https://amzn.to/4gmtMsW). Great for mounting an Accsoon triplet on.
+- Don't want to build a 8020 frame? Get a [C-stand](https://amzn.to/3EfqHxB), with [wheels](https://amzn.to/3PSDSXL) and a [case](https://amzn.to/4jC7uWT). It holds a ton of gear.
+
+The banks I buy at the moment, [AMEGAT 140W 27600mAh](https://amzn.to/4jzEoYc), provide two USB-PD ports and one USB-A. These are OEMs and I don't know the source. Ravpower had them first but then a ton of other brands started to carry them. The display with the individual draw per port is brilliant as it's easy to balance and you get immediate feedback if there's draw from the connected device.
+
 {% include feature_row id="feature_row1" type="left" %}
 
 # Lynn's Arcade
@@ -168,12 +192,12 @@ The additional headset is completely wireless for both monitoring and voice and 
 The rig at Lynn's I originally built for myself but the arcade decided to buy it. There's been a few upgrades over the years and this list is the current know list of equipment.
 
 * 3 x [Accsoon CineView HE](https://amzn.to/3CxGXcA) transmitters
-* Panasonic V770K (out of stock, sub [V785K](https://amzn.to/3ElUCE5)) playfield camera
-* Panasonic V770K (out of stock, sub [V785K](https://amzn.to/3ElUCE5)) score camera
-* LUMIX GX85 (out of stock, sub [G85](https://amzn.to/40vciVw)) player camera with a [Rokinon fisheye](https://amzn.to/3CBZZhY) lens
+* Panasonic V770K (discontinued, sub [V785K](https://amzn.to/3ElUCE5)) playfield camera
+* Panasonic V770K (discontinued, sub [V785K](https://amzn.to/3ElUCE5)) score camera
+* LUMIX GX85 (discontinued, sub [G85](https://amzn.to/40vciVw)) player camera with a [Rokinon fisheye](https://amzn.to/3CBZZhY) lens
 * 2 x [Audio-Technica AT897](https://amzn.to/3POWzeS) shotgun mics
 * [Yamaha MG06](https://amzn.to/4aAfUKz) mixer
-* VILTROX L132T (out of stock, sub [L116T](https://amzn.to/3WBWPBL)) playfield light
+* VILTROX L132T (discontinued, sub [L116T](https://amzn.to/3WBWPBL)) playfield light
 * [VILTROX L116T](https://amzn.to/3WBWPBL) player light
 
 Broadcaster station. 
@@ -184,7 +208,7 @@ Broadcaster station.
 * [Magewell Quad HDMI](https://amzn.to/3WyM7Mv) capture card
 * [Rodecaster Duo 2](https://amzn.to/40yEbM9) mixer
 * 2 x [Audio-Technica BPHS1](https://amzn.to/3Wzt4l6) headsets
-* LUMIX GX85 (out of stock, sub [G85](https://amzn.to/40vciVw)) talent camera with a [Laowa 6mm f/2 Zero-D](https://www.venuslens.net/product/laowa-6mm-f-2-zero-d-mft/) lens
+* LUMIX GX85 (discontinued, sub [G85](https://amzn.to/40vciVw)) talent camera with a [Laowa 6mm f/2 Zero-D](https://www.venuslens.net/product/laowa-6mm-f-2-zero-d-mft/) lens
 
 The rig at Lynn's Arcade can be "rented" at the arcade if you bring a laptop with a USB4 or TB3 port. Affectionately called the Rent-A-Rig (or RAR). Instructions how to use the RAR will be made available soon.
 
@@ -194,20 +218,20 @@ The rig at Lynn's Arcade can be "rented" at the arcade if you bring a laptop wit
 
 The Rewind Arcade picked up my previous generation of gear that was PC based using dedicated HDMI transmitters.
 
-* 3 x Accsoon CineEye 2S Pro (out of stock, sub [CineView HE](https://amzn.to/3CxGXcA)) transmitters
-* GoPro Hero 11 (out of stock, sub [13 w/ MediaMod](https://amzn.to/42oBVtE))player camera
+* 3 x Accsoon CineEye 2S Pro (discontinued, sub [CineView HE](https://amzn.to/3CxGXcA)) transmitters
+* GoPro Hero 11 (discontinued, sub [13 w/ MediaMod](https://amzn.to/42oBVtE))player camera
 * [Panasonic V785K](https://amzn.to/3ElUCE5) score camera
 * Sony CX405 (trash, sub [V785K](https://amzn.to/3ElUCE5)) score camera
-* 2 x RØDE VideoMic GO (out of stock, sub [VideoMicro II](https://amzn.to/4jLHMQ7))
+* 2 x RØDE VideoMic GO (discontinued, sub [VideoMicro II](https://amzn.to/4jLHMQ7))
 * 2 x [VILTROX L116T LED](https://amzn.to/3WBWPBL) lights
-* 5 x 30,000mAh RAVPower (out of stock, sub [Alfox/Ravpower 140W 27600mAh](https://amzn.to/4jzEoYc)) banks
+* 5 x 30,000mAh RAVPower (discontinued, sub [Alfox/Ravpower 140W 27600mAh](https://amzn.to/4jzEoYc)) banks
 
 The broadcast station: 
 
 * [Razer Blade 15 2020](https://amzn.to/4giZjvM)
 * [Magewell Quad HDMI](https://amzn.to/3WyM7Mv) in a [SonnetTech](https://amzn.to/4hssBsU) enclosure
-* 3 x CineEye 2S Pro (out of stock, sub [CineView HE](https://amzn.to/3CxGXcA)) receivers
-* Canon VIXIA HF R800 (out of stock, sub anything) broadcast talent camera
+* 3 x CineEye 2S Pro (discontinued, sub [CineView HE](https://amzn.to/3CxGXcA)) receivers
+* Canon VIXIA HF R800 (discontinued, sub anything) broadcast talent camera
 * [Logitech Litra Glow](https://amzn.to/4giYP8W) player light
 * Rodecaster Pro (the old model, sub with [Rodecaster Duo 2](https://amzn.to/40yEbM9))
 * 2 x [Audio-Technica BPHS1](https://amzn.to/3Wzt4l6) headsets
@@ -219,3 +243,4 @@ Two rifle cases ([Harbor Freight models](https://www.harborfreight.com/9800-weat
 # Changelog
 
 * 2025-01-26: Initial hack
+* 2025-01-27: Added Miscellaneous section and dbx links. Clarified AMZN links.
