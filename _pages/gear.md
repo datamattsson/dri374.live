@@ -7,6 +7,8 @@ header:
   video:
     id: AUOamxsqLo8
     provider: youtube
+  og_image: /assets/images/gear/og_image.jpg
+description: This is how to stream pinball and arcade games on Twitch.
 feature_row1:
   - image_path: /assets/images/gear/dri374-16x9.png
     alt: "TWITCH.TV/DRI374"
@@ -37,6 +39,18 @@ feature_row3:
 ul li, ol li {
 	margin-bottom: 0;
 }
+figure {
+    margin-left: 10px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+figure img {
+    border-width: 2px;
+    border-style: solid;
+    color: #FF69B4;
+    margin-top: 0;
+    margin-bottom: 0;
+}
 </style>
 
 {% include feature_row id="intro" %}
@@ -62,7 +76,11 @@ As this page is updated, the [changelog](#changelog) lists the changes.
 # Raccoon City Pinball
 The home pinball rig has evolved since early 2020 when I built a makeshift COVID rig to stream my newly acquired Stranger Things. Today, my home arcade is more of a studio than an arcade. The entire rig is one homogeneous unit only tethered by a power cord.
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/gear/rcp-2025-01-29.jpg" alt="" align="right" width="25%" style="margin-left: 10px">
+<figure class="align-right" style="width: 30%;">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/gear/rcp-2025-01-29.jpg" alt="" />
+  <figcaption>The main home rig.</figcaption>
+</figure>
+
 * [Macbook Pro M3 Max](https://amzn.to/4hrpnpw) laptop
 * [Black Magic Design UltraStudio 4K Mini](https://amzn.to/4hxHI4e) capture card
 * [OREI UHD-401MV 4x1 HDMI Multi-Viewer](https://amzn.to/4hu6cLV) with [RigC](https://github.com/datamattsson/rigc)
@@ -87,7 +105,10 @@ The home pinball rig has evolved since early 2020 when I built a makeshift COVID
 The Atomos recorder uses the passthrough of the capture card and records the multi-viewer output in 2160p60 with the mixer output. Highlights destined for YouTube are rendered through a template in DaVinci Resolve for that souped up 4K rendering.
 
 # Raccoon City Arcade
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/gear/rca-2025-01-25.jpg" alt="" align="right" width="25%" style="margin-left: 10px">
+<figure class="align-right" style="width: 25%;">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/gear/rca-2025-01-25.jpg" alt="" />
+  <figcaption>The candy rig.</figcaption>
+</figure>
 
 The candy cab rig is a half-height regular pinball rig. It uses the same laptop, player camera, player microphone and Stream Decks as the pinball rig.
 
@@ -113,7 +134,10 @@ This is the configuration that captured that notorious [Metallica game at Pinbal
 
 The only components shared with the home rig is the laptop and the Stream Deck. The Atomos recorder might go into this build for a higher quality event capture.
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/gear/pocket-2025-01-29.jpg" alt="" align="right" width="33%" style="margin-left: 10px">
+<figure class="align-right" style="width: 33%">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/gear/pocket-2025-01-29.jpg" alt="" />
+  <figcaption>The Pocket Rig. Photo by <a href="https://www.instagram.com/braddukeart/">Brad Duke</a>.</figcaption>
+</figure>
 * [OREI UHD-401MV 4x1 HDMI Multi-Viewer](https://amzn.to/4hu6cLV) with [RigC](https://github.com/datamattsson/rigc)
 * [AVerMedia Live Gamer Ultra 2.1](https://amzn.to/40Z4EEp) capture card
 * 2 x [RØDE VideoMic GO II](https://amzn.to/40OxW8A)
@@ -129,7 +153,10 @@ The only components shared with the home rig is the laptop and the Stream Deck. 
 All the gear needed for the event rig fits into two [Pelican 1510](https://amzn.to/4h9MtkU) carry-on sized cases.
 
 ### The Single Day Tournament Transform
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/gear/tourney-rig-2025-01-29.jpg" alt="" align="right" width="33%" style="margin-left: 10px">
+<figure class="align-right" style="width: 35%">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/gear/tourney-rig-2025-01-29.jpg" alt="" />
+  <figcaption>The tournament rig.</figcaption>
+</figure>
 
 This adds another [Pelican 1510](https://amzn.to/4h9MtkU) case of gear to the event transform and suitable for single day tournaments. This kit does not provide any telestrating capability and only two hosts for the broadcast. The Atomos recorder is used for tournaments to record the program as well as pushing the program to venue monitors with the passthrough to a HDMI splitter.
 
@@ -155,7 +182,10 @@ The broadcast station is scarce in the setup and has the following components:
 Technically, the single day rig can be flown with if there's two people traveling as the gear needs to be in the cabin and the extrusions/mount in the hold.
 
 ### The Multi Day Tournament Transform
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/gear/tourney-broadcast-2025-01-29.jpg" alt="" align="right" width="33%" style="margin-left: 10px">
+<figure class="align-right" style="width: 36%">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/gear/tourney-broadcast-2025-01-29.jpg" alt="" /> 
+  <figcaption>The multi day broadcast station.</figcaption>
+</figure>
 
 The multi day tournament transform uses all the gear from the single day transform except the 14" portable monitor.
 
@@ -166,6 +196,7 @@ The multi day tournament transform uses all the gear from the single day transfo
 * An additional [Koss Porta Pro](https://amzn.to/3Eduw6r) headset
 * [Sennheiser EM 100 G4](https://amzn.to/40Po9yU) receiver
 * [Sennheiser IEM G4](https://amzn.to/3CsfPfd) transmitter
+* 2 x [VILTROX L116T](https://amzn.to/3WBWPBL) talent lights
 
 The additional headset is completely wireless for both monitoring and voice and allows the broadcaster to roam freely and commentate and manage the stream from anywhere in the venue.
 
@@ -203,7 +234,10 @@ The power banks I buy at the moment, [AMEGAT 140W 27600mAh](https://amzn.to/4jzE
 
 The rig at Lynn's I originally built for myself but the arcade decided to buy it. There's been a few upgrades over the years and this list is the current known list of equipment.
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/gear/lynns-2025-01-29.jpg" alt="" align="right" width="33%" style="margin-left: 10px">
+<figure class="align-right" style="width: 33%">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/gear/lynns-2025-01-29.jpg" alt="" />
+  <figcaption>The rig at Lynn's Arcade.</figcaption>
+</figure>
 * 3 x [Accsoon CineView HE](https://amzn.to/3CxGXcA) transmitters
 * Panasonic V770K (discontinued, sub [V785K](https://amzn.to/3ElUCE5)) playfield camera
 * Panasonic V770K (discontinued, sub [V785K](https://amzn.to/3ElUCE5)) score camera
@@ -231,7 +265,10 @@ The rig at Lynn's Arcade can be "rented" at the arcade if you bring a laptop wit
 
 The Rewind Arcade picked up my previous generation of gear that was PC based using dedicated HDMI transmitters.
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/gear/rewind-case-2025-01-29.jpg" alt="" align="right" width="40%" style="margin-left: 10px">
+<figure class="align-right" style="width: 40%">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/gear/rewind-case-2025-01-29.jpg" alt="" />
+  <figcaption>The rig built for The Rewind Arcade.</figcaption>
+</figure>
 * 3 x Accsoon CineEye 2S Pro (discontinued, sub [CineView HE](https://amzn.to/3CxGXcA)) transmitters
 * GoPro Hero 11 (discontinued, sub [13 w/ MediaMod](https://amzn.to/42oBVtE)) player camera
 * [Panasonic V785K](https://amzn.to/3ElUCE5) score camera
