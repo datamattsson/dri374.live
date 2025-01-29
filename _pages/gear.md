@@ -2,7 +2,7 @@
 layout: splash
 title: GEAR FOR PINBALL AND ARCADE STREAMING
 permalink: /gear
-date: 2025-01-26T00:00
+date: 2025-01-29T00:00
 header:
   video:
     id: AUOamxsqLo8
@@ -233,7 +233,7 @@ The Rewind Arcade picked up my previous generation of gear that was PC based usi
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/gear/rewind-case-2025-01-29.jpg" alt="" align="right" width="40%" style="margin-left: 10px">
 * 3 x Accsoon CineEye 2S Pro (discontinued, sub [CineView HE](https://amzn.to/3CxGXcA)) transmitters
-* GoPro Hero 11 (discontinued, sub [13 w/ MediaMod](https://amzn.to/42oBVtE))player camera
+* GoPro Hero 11 (discontinued, sub [13 w/ MediaMod](https://amzn.to/42oBVtE)) player camera
 * [Panasonic V785K](https://amzn.to/3ElUCE5) score camera
 * Sony CX405 (trash, sub [V785K](https://amzn.to/3ElUCE5)) score camera
 * 2 x RØDE VideoMic GO (discontinued, sub [VideoMicro II](https://amzn.to/4jLHMQ7))
