@@ -182,14 +182,22 @@ I've been through some gear over the years in terms of mounts, stands and other 
 - [Desk and wall rack mount frame](https://amzn.to/4gmBZx7) for up to 6U. Mounts perfectly onto a 1515 profile, flat or vertical.
 - Flashner [CamCaddie cold shoe rails](https://amzn.to/4gmtMsW). Great for mounting an Accsoon triplet on.
 - Don't want to build a 8020 frame? Get a [C-stand](https://amzn.to/3EfqHxB), with [wheels](https://amzn.to/3PSDSXL) and a [case](https://amzn.to/4jC7uWT). It holds a ton of gear.
+- Monoprice makes my favorite cables. [Ultra slim HDMI](https://amzn.to/3WDB4kV) (good for 4K60 up to 8') and [Ethernet](https://amzn.to/3Cun2v8) (10GigE up to 30') cables.
+- Monoprice also makes [active HDMI](https://amzn.to/4gdnmMR) (up to 15' and 4K60) cables.
+- Faracent makes excellent [USB-PD extension cords](https://amzn.to/3ChLEYb) (up to 10')
+- Blind Spot makes very professional [USB-PD to DC barrel](https://amzn.to/40xWJfH) cables but [many cheaper](https://amzn.to/3Wzgand) and [more practical](https://amzn.to/40QPmRL) cables exist, work and [sometimes more flexible](https://amzn.to/4hqMr7Y) on the output (check your power bank and device).
 
-The banks I buy at the moment, [AMEGAT 140W 27600mAh](https://amzn.to/4jzEoYc), provide two USB-PD ports and one USB-A. These are OEMs and I don't know the source. Ravpower had them first but then a ton of other brands started to carry them. The display with the individual draw per port is brilliant as it's easy to balance and you get immediate feedback if there's draw from the connected device.
+The power banks I buy at the moment, [AMEGAT 140W 27600mAh](https://amzn.to/4jzEoYc), provide two USB-PD ports and one USB-A. These are OEMs and I don't know the source. Ravpower had them first but then a ton of other brands started to carry them. The display with the individual draw per port is brilliant as it's easy to balance and you get immediate feedback if there's draw from the connected device.
+
+**Pro-Tip:** The brand Anker seems to have very compelling power banks, warts, bricks and plugs. *READ THE FINE PRINT:* I've not come across a single product that does 12V 3A which is the most common voltage USB-PD is used for.
+{: .notice--danger}
+
 
 {% include feature_row id="feature_row1" type="left" %}
 
 # Lynn's Arcade
 
-The rig at Lynn's I originally built for myself but the arcade decided to buy it. There's been a few upgrades over the years and this list is the current know list of equipment.
+The rig at Lynn's I originally built for myself but the arcade decided to buy it. There's been a few upgrades over the years and this list is the current known list of equipment.
 
 * 3 x [Accsoon CineView HE](https://amzn.to/3CxGXcA) transmitters
 * Panasonic V770K (discontinued, sub [V785K](https://amzn.to/3ElUCE5)) playfield camera
@@ -242,5 +250,6 @@ Two rifle cases ([Harbor Freight models](https://www.harborfreight.com/9800-weat
 
 # Changelog
 
-* 2025-01-26: Initial hack
+* 2025-01-26: Initial hack.
 * 2025-01-27: Added Miscellaneous section and dbx links. Clarified AMZN links. Link to slides.
+* 2025-01-28: Cables (under Misc.) and typos and such.

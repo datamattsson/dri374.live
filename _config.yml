@@ -89,8 +89,6 @@ yandex_site_verification :
 baidu_site_verification  :
 
 # Social Sharing
-twitter:
-  username               : "dri374"
 facebook:
   username               : "dri374"
   app_id                 :
@@ -103,7 +101,6 @@ social:
   name                   : "DRI374: Raccoon City Pinball and Arcade" # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
   - "https://twitch.tv/dri374"
-  - "https://twitter.com/dri374"
 
 # Analytics
 analytics:
@@ -140,9 +137,15 @@ footer:
     - label: "Like on Facebook"
       icon: "fa-brands fa-facebook"
       url: "https://facebook.com/dri374"
-    - label: "at on X"
-      icon: "fa-brands fa-x-twitter"
-      url: "https://twitter.com/dri374"
+    - label: "Skeet at on BlueSky"
+      icon: "fa-brands fa-bluesky"
+      url: "https://bsky.app/profile/dri374.live"
+    - label: "FlipFlop on TikTok"
+      icon: "fa-brands fa-tiktok"
+      url: "https://tiktok.com/@dri.374"
+    - label: "Swag up on TeePublic"
+      icon: "fa-solid fa-shirt"
+      url: "http://tee.pub/lic/dri374"
 
 # Reading Files
 include:
