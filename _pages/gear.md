@@ -2,7 +2,7 @@
 layout: splash
 title: GEAR FOR PINBALL AND ARCADE STREAMING
 permalink: /gear
-date: 2025-01-29T00:00
+date: 2025-02-09T00:00
 header:
   video:
     id: AUOamxsqLo8
@@ -168,7 +168,7 @@ An additional harness is tacked onto the rig and make the mics go analog and add
 * [Zoom AMS-44](https://amzn.to/4aASioN) mixer
 * [RØDE VideoMicro II](https://amzn.to/4jLHMQ7) for the cabinet
 
-The broadcast station is scarce in the setup and has the following components:
+The broadcast station is scarce in this setup and has the following components:
 
 * [TP-Link AXE75](https://amzn.to/40zFwm8) mesh router
 * [CalDigit Thunderbolt 3 Mini Dock](https://amzn.to/3E8RUlr) for more ports
@@ -179,7 +179,7 @@ The broadcast station is scarce in the setup and has the following components:
 * 2 x [Koss Porta Pro](https://amzn.to/3Eduw6r) headsets
 * [Focusrite Vocaster Two](https://amzn.to/4hxzFEA) for headsets 
 
-Technically, the single day rig can be flown with if there's two people traveling as the gear needs to be in the cabin and the extrusions/mount in the hold.
+Technically, the single day rig can be flown with if there's two people traveling as the gear needs to be in the cabin and the rig in the hold.
 
 ### The Multi Day Tournament Transform
 <figure class="align-right" style="width: 36%">

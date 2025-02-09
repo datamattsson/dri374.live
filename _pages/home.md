@@ -2,6 +2,7 @@
 layout: splash
 permalink: /
 hidden: true
+title: HOME
 header:
   video:
     id: -wbR0qIkh7Y
@@ -29,5 +30,10 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Follow <i class='fa-solid fa-arrow-up-right-from-square'></i>"
 ---
+
+<div align="center">
+<h1>LIVE PINBALL STREAMING IS LIFE!</h1>
+<p style="width: 55%">Engage your local pinball streamer today or roll your own. Use this website as a launchpad for your next project. Building streaming rigs is sometimes more fun than actually playing pinball.</p>
+</div>
 
 {% include feature_row %}

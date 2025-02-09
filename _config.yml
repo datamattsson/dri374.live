@@ -17,11 +17,11 @@ minimal_mistakes_skin    : "neon" # "dark" #"dark" # "air", "aqua", "contrast", 
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "DRI374.LIVE PINBALL STREAMING"
+title                    : "DRI374 LIVE PINBALL STREAMING"
 title_separator          : "-"
 subtitle                 : "Raccoon City Pinball and Arcade" # site tagline that appears below site title in masthead
 name                     : "Michael Mattsson"
-description              : "Michael 'DRI374' Mattsson is a pinball and arcade gamer who stream games on Twitch, mainly from his home arcade, 'Raccoon City Pinball' in Santa Cruz California."
+description              : "Michael 'DRI374' Mattsson is a pinball and arcade gamer who stream games on Twitch, mainly from his home arcade, Raccoon City Pinball"
 url                      : "https://dri374.live" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "datamattsson/dri374.live" # GitHub username/repo-name e.g. "datamattsson/dri374.live"
@@ -101,6 +101,11 @@ social:
   name                   : "DRI374: Raccoon City Pinball and Arcade" # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
   - "https://twitch.tv/dri374"
+  - "https://youtube.com/dri374"
+  - "https://bsky.app/profile/dri374.live"
+  - "https://instagram.com/dri374"
+  - "https://tiktok.com/@dri.374"
+  - "http://tee.pub/lic/dri374"
 
 # Analytics
 analytics:
