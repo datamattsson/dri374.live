@@ -2,7 +2,8 @@
 layout: splash
 title: GEAR FOR PINBALL AND ARCADE STREAMING
 permalink: /gear
-date: 2025-02-09T00:00
+date: 2025-01-26T00:00
+last_modified_at: 2025-01-29T00:00
 header:
   video:
     id: AUOamxsqLo8
