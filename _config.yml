@@ -105,7 +105,6 @@ social:
   - "https://bsky.app/profile/dri374.live"
   - "https://instagram.com/dri374"
   - "https://tiktok.com/@dri.374"
-  - "http://tee.pub/lic/dri374"
 
 # Analytics
 analytics:
@@ -148,9 +147,9 @@ footer:
     - label: "FlipFlop on TikTok"
       icon: "fa-brands fa-tiktok"
       url: "https://tiktok.com/@dri.374"
-    - label: "Swag up on TeePublic"
+    - label: "Swag up on SWAG.DRI374.LIVE"
       icon: "fa-solid fa-shirt"
-      url: "http://tee.pub/lic/dri374"
+      url: "https://swag.dri374.live"
 
 # Reading Files
 include:
