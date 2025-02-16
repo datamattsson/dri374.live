@@ -119,11 +119,11 @@ author:
   avatar           : "/assets/images/bio-160x160.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I collect and look at pinball machines. Sometimes I play them too."
   location         : "Santa Cruz, CA"
-  email            : 
-  links:
-  - label: "linktr.ee/dri374"
-    icon: "fa-solid fa-link"
-    url: "https://linktr.ee/dri374"
+  email            :
+#  links:
+#  - label: "linktr.ee/dri374"
+#    icon: "fa-solid fa-link"
+#    url: "https://linktr.ee/dri374"
 
 # Site Footer
 footer:

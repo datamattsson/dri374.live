@@ -11,7 +11,7 @@ tags:
 #- opinions
 #- news
 header:
-  teaser: /assets/images/blogs/hello-world/teaser.png
+  teaser: /assets/images/blogs/hello-world/og.png
   og_image: /assets/images/blogs/hello-world/og.png
 
 # These are all true by default _config.yml
