@@ -3,7 +3,7 @@ layout: splash
 title: GEAR FOR PINBALL AND ARCADE STREAMING
 permalink: /gear
 date: 2025-01-26T00:00
-last_modified_at: 2025-01-29T00:00
+last_modified_at: 2025-03-02T00:00
 header:
   video:
     id: AUOamxsqLo8
@@ -92,7 +92,7 @@ The home pinball rig has evolved since early 2020 when I built a makeshift COVID
 * [Lilliput A11](https://amzn.to/4aDkbwz) for chat and stream monitoring
 * [Atomos Ninja 5.2"](https://amzn.to/40MYM0y) 4K HDMI recording monitor 
 * 2 x VILTROX L132T (discontinued [L116T](https://amzn.to/3WBWPBL) sub) LED lights
-* [Audio-Technica AT2040](https://amzn.to/42vJu1v) player mic with a [dbx 286s](https://amzn.to/42wyf97)
+* [Audio-Technica AT2040](https://amzn.to/42vJu1v) player mic with a [Behringer VU1](https://amzn.to/3QDQ5QB)
 * [Audio-Technica AE3000](https://amzn.to/42oSuWl) backbox mic on a dbx 166xs (discontinued, sub [dbx 266xs](https://amzn.to/4jvoYEr)) channel
 * [Shure PGA52-XLR](https://amzn.to/3E7xd9E) cabinet mic on the other dbx 166xs (discontinued, sub [dbx 266xs](https://amzn.to/4jvoYEr)) channel
 * [Mackie 1202VLZ4](https://amzn.to/3CdY6It) mixer
@@ -166,7 +166,7 @@ An additional harness is tacked onto the rig and make the mics go analog and add
 * [TP-Link AXE75](https://amzn.to/40zFwm8) mesh satellite
 * [KiloView N60](https://amzn.to/4jyquFN) NDI encoder
 * StarTech NETRS2321P (discontinued, [sub](https://amzn.to/3WvvWzy)) Serial-to-Ethernet for RigC
-* [Zoom AMS-44](https://amzn.to/4aASioN) mixer
+* [Zoom AMS-44](https://amzn.to/4aASioN) mixer. In order to use plug in powered mics (most on-camera mics), an active XLR phantom power to 3.5mm plug in power adapter is required. Either the [RØDE](https://amzn.to/4kfCfkO) or the [Saramonic](https://amzn.to/4bqeHG7) will work (I had one bad apple with Saramonic, buyer beware).
 * [RØDE VideoMicro II](https://amzn.to/4jLHMQ7) for the cabinet
 
 The broadcast station is scarce in this setup and has the following components:
@@ -298,3 +298,4 @@ Two rifle cases ([Harbor Freight models](https://www.harborfreight.com/9800-weat
 * 2025-01-27: Added Miscellaneous section and dbx links. Clarified AMZN links. Link to slides.
 * 2025-01-28: Cables (under Misc.) and typos and such.
 * 2025-01-29: Added some pictures.
+* 2025-03-02: Replaced the dbx286s (gain of death) with a Behringer VU1. Clarified using RØDE mics with the Zoom AMS.
