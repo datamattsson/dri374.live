@@ -21,7 +21,7 @@ title                    : "DRI374 LIVE PINBALL STREAMING"
 title_separator          : "-"
 subtitle                 : "Raccoon City Pinball and Arcade" # site tagline that appears below site title in masthead
 name                     : "Michael Mattsson"
-description              : "Michael 'DRI374' Mattsson is a pinball and arcade gamer who stream games on Twitch, mainly from his home arcade, Raccoon City Pinball"
+description              : "Michael 'DRI374' Mattsson is a pinball and arcade gamer who streams on Twitch."
 url                      : "https://dri374.live" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "datamattsson/dri374.live" # GitHub username/repo-name e.g. "datamattsson/dri374.live"
