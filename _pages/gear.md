@@ -148,7 +148,7 @@ The only components shared with the home rig is the laptop and the Stream Deck. 
 * [Belkin Connect USB-CTM to 4-Port USB-C Hub](https://amzn.to/3ElUcgZ) for more ports.
 * VILTROX L132T (discontinued [L116T](https://amzn.to/3WBWPBL) sub) LED light for the playfield.
 * [Logitech Litra Glow](https://amzn.to/4giYP8W) player light.
-* [LUMIX G85](https://amzn.to/40vciVw) with a LUMIX G FISHEYE 8mm f/3.5 lens.
+* [LUMIX GH5S](https://amzn.to/4kwCWWc) with a [LUMIX G FISHEYE 8mm f/3.5](https://amzn.to/4mtRE20) lens.
 * [Panasonic V785K](https://amzn.to/3ElUCE5)<sup>1</sup> playfield camera.
 * [Panasonic V785K](https://amzn.to/3ElUCE5)<sup>1</sup> score camera.
 * 3 x [Alfox/Ravpower 140W 27600mAh](https://amzn.to/4jzEoYc) power banks for all gear except laptop.
@@ -168,15 +168,15 @@ This adds another [Pelican 1510](https://amzn.to/4h9MtkU) case of gear to the ev
 
 An additional harness is tacked onto the rig and make the mics go analog and adds an additional mic for the cabinet.
 
-* [TP-Link AXE75](https://amzn.to/40zFwm8) mesh satellite.
+* [TP-Link AXE75](https://amzn.to/40zFwm8) mesh satellite (scrapped, testing a new brand TBA).
 * [KiloView N60](https://amzn.to/4jyquFN) NDI encoder.
 * StarTech NETRS2321P (discontinued, [sub](https://amzn.to/3Rbpavz)) Serial-to-Ethernet for RigC.
-* [Zoom AMS-44](https://amzn.to/4aASioN) mixer. In order to use plug in powered mics (most on-camera mics), an active XLR phantom power to 3.5mm plug in power adapter is required. Either the [RØDE](https://amzn.to/4kfCfkO) or the [Saramonic](https://amzn.to/4bqeHG7) will work (I had one bad apple with Saramonic, buyer beware).
-* [RØDE VideoMicro II](https://amzn.to/4jLHMQ7) for the cabinet
+* [Maker hart Just Mic 4 mini](https://amzn.to/43qsDft) mixer.
+* [RØDE VideoMicro II](https://amzn.to/4jLHMQ7) for the cabinet.
 
 The broadcast station is scarce in this setup and has the following components:
 
-* [TP-Link AXE75](https://amzn.to/40zFwm8) mesh router.
+* [TP-Link AXE75](https://amzn.to/40zFwm8) mesh router (scrapped, testing a new brand TBA).
 * [CalDigit Thunderbolt 3 Mini Dock](https://amzn.to/3E8RUlr) for more ports.
 * [Lilliput A7s](https://amzn.to/40pvT9u) for chat and stream monitoring.
 * [Black Magic Design Monitor 3G](https://amzn.to/4htAwGs) for program recording.
@@ -198,7 +198,7 @@ The multi day tournament transform uses all the gear from the single day transfo
 * [OREI 1x4 HDMI splitter](https://amzn.to/3CsGybr) for program outputs.
 * [Dell 27" FullHD](https://amzn.to/40OSMoc) monitor.
 * [Magewell UltraEncode HDMI Plus](https://www.magewell.com/products/ultra-encode-hdmi-plus) for telestrating output over NDI.
-* [Surface Go 3](https://amzn.to/4jx3A1p) with WebRTC-Telestrator.
+* [Surface Go 3](https://amzn.to/4jx3A1p) with [WebRTC-Telestrator](https://github.com/BlankSourceCode/WebRTC-Telestrator).
 * An additional [Koss Porta Pro](https://amzn.to/3Eduw6r) headset.
 * [Sennheiser EM 100 G4](https://amzn.to/40Po9yU) receiver.
 * [Sennheiser IEM G4](https://amzn.to/3CsfPfd) transmitter.
@@ -322,6 +322,7 @@ Two rifle cases ([Harbor Freight models](https://www.harborfreight.com/9800-weat
 
 # Changelog
 
+* 2025-05-22: New pocket mixer, decommissioned [Zoom AMS-44](https://amzn.to/4aASioN), new player camera, decommissioned [LUMIX G85](https://amzn.to/40vciVw).
 * 2025-03-15: New USB hub. Clarified white balance on the V785/V770's. B-cam rig.
 * 2025-03-02: Replaced the dbx286s (gain of death) with a Behringer VU1. Clarified using RØDE mics with the Zoom AMS.
 * 2025-01-29: Added some pictures.
