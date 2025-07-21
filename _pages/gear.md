@@ -151,7 +151,7 @@ The only components shared with the home rig is the laptop and the Stream Deck. 
 * [LUMIX GH5S](https://amzn.to/4kwCWWc) with a [LUMIX G FISHEYE 8mm f/3.5](https://amzn.to/4mtRE20) lens.
 * [Panasonic V785K](https://amzn.to/3ElUCE5)<sup>1</sup> playfield camera.
 * [Panasonic V785K](https://amzn.to/3ElUCE5)<sup>1</sup> score camera.
-* 3 x [Alfox/Ravpower 140W 27600mAh](https://amzn.to/4jzEoYc) power banks for all gear except laptop.
+* 3 x [AMEGAT/Alfox/Ravpower 140W 27600mAh](https://amzn.to/44WWflj) power banks for all gear except laptop.
 * 2 x [UGREEN 145W 25000mAh](https://amzn.to/4hu6pib) for the laptop.
 
 All the gear needed for the event rig fits into two [Pelican 1510](https://amzn.to/4h9MtkU) carry-on sized cases.
@@ -251,7 +251,7 @@ I've been through some gear over the years in terms of mounts, stands and other 
 - When using a USB-C port to yield another HDMI port, use high quality adapters. Brands certified with Apple works best. Like [this Belkin](https://amzn.to/4ixpTmD). Off brands may glitch and that glitch will cause OBS to crash (on Mac).
 * [Anker 4-Port USB 3.0](https://amzn.to/3CkSs7j) works for more USB-A ports and [Belkin 4-Port USB-C Hub](https://amzn.to/3ElUcgZ) for more USB-C ports.
 
-The power banks I buy at the moment, [AMEGAT 140W 27600mAh](https://amzn.to/4jzEoYc), provide two USB-PD ports and one USB-A. These are OEMs and I don't know the source. Ravpower had them first but then a ton of other brands started to carry them. The display with the individual draw per port is brilliant as it's easy to balance and you get immediate feedback if there's draw from the connected device.
+The power banks I buy at the moment, [AMEGAT 140W 27600mAh](https://amzn.to/44WWflj), provide two USB-PD ports and one USB-A. These are OEMs and I don't know the source. Ravpower had them first but then a ton of other brands started to carry them. The display with the individual draw per port is brilliant as it's easy to balance and you get immediate feedback if there's draw from the connected device.
 
 **Pro-Tip:** The brand Anker seems to have very compelling power banks, warts, bricks and plugs. *READ THE FINE PRINT:* I've not come across a single product that does 12V 3A which is the most common voltage USB-PD is used for.
 {: .notice--danger}
@@ -304,7 +304,7 @@ The Rewind Arcade picked up my previous generation of gear that was PC based usi
 * Sony CX405 (trash, sub [V785K](https://amzn.to/3ElUCE5)) score camera
 * 2 x RØDE VideoMic GO (discontinued, sub [VideoMicro II](https://amzn.to/4jLHMQ7))
 * 2 x [VILTROX L116T LED](https://amzn.to/3WBWPBL) lights
-* 5 x 30,000mAh RAVPower (discontinued, sub [Alfox/Ravpower 140W 27600mAh](https://amzn.to/4jzEoYc)) banks
+* 5 x 30,000mAh RAVPower (discontinued, sub [Alfox/Ravpower/AMEGAT 140W 27600mAh](https://amzn.to/44WWflj) or [HenHot 30,000mAh](https://amzn.to/4m54Byo)) banks
 
 The broadcast station: 
 
@@ -322,6 +322,7 @@ Two rifle cases ([Harbor Freight models](https://www.harborfreight.com/9800-weat
 
 # Changelog
 
+* 2025-07-21: Updated power bank links.
 * 2025-05-22: New pocket mixer, decommissioned [Zoom AMS-44](https://amzn.to/4aASioN), new player camera, decommissioned [LUMIX G85](https://amzn.to/40vciVw).
 * 2025-03-15: New USB hub. Clarified white balance on the V785/V770's. B-cam rig.
 * 2025-03-02: Replaced the dbx286s (gain of death) with a Behringer VU1. Clarified using RØDE mics with the Zoom AMS.
