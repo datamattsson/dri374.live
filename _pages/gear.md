@@ -79,7 +79,7 @@ As this page is updated, the [changelog](#changelog) lists the changes.
 The home pinball rig has evolved since early 2020 when I built a makeshift COVID rig to stream my newly acquired Stranger Things. Today, my home arcade is more of a studio than an arcade. The entire rig is one homogeneous unit only tethered by a power cord.
 
 <figure class="align-right" style="width: 30%;">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/gear/rcp-2025-01-29.jpg" alt="" />
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/gear/rcp-2025-08-13.jpg" alt="" />
   <figcaption>The main home rig.</figcaption>
 </figure>
 
