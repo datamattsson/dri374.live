@@ -58,7 +58,7 @@ figure img {
 
 This page contains the rough bill of materials for various streaming rig setups DRI374 is running and built for others.
 
-- [Raccoon City Pinball](#raccoon-city-pinball) (the main home rig)
+- [Raccoon City Pinball](#raccoon-city-pinball) (the main studio rig)
 - [Raccoon City Arcade](#raccoon-city-arcade) (the candy cab rig)
 - [The Pocket Rig](#the-pocket-rig) (tournament and event rig)
 - [The Flying B-Cam](#the-flying-b-cam) (the unboxing setup)
@@ -76,36 +76,41 @@ As this page is updated, the [changelog](#changelog) lists the changes.
 {: .notice--danger}
 
 # Raccoon City Pinball
-The home pinball rig has evolved since early 2020 when I built a makeshift COVID rig to stream my newly acquired Stranger Things. Today, my home arcade is more of a studio than an arcade. The entire rig is one homogeneous unit only tethered by a power cord.
+The home arcade pinball rig has evolved since early 2020 when I built a makeshift COVID rig to stream my newly acquired Stranger Things. Today, my home arcade is more of a studio than an arcade. The entire rig is one homogeneous unit only tethered by a power cord.
 
 <figure class="align-right" style="width: 30%;">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/gear/rcp-2025-08-13.jpg" alt="" />
-  <figcaption>The main home rig.</figcaption>
+  <figcaption>The main studio rig.</figcaption>
 </figure>
 
 * [Macbook Pro M3 Max](https://amzn.to/4hrpnpw) laptop.
-* [Black Magic Design UltraStudio 4K Mini](https://amzn.to/4hxHI4e) capture card.
+* [Blackmagic Design UltraStudio 4K Mini](https://amzn.to/4hxHI4e) capture card.
 * [OREI UHD-401MV 4x1 HDMI Multi-Viewer](https://amzn.to/4hu6cLV) with [RigC](https://github.com/datamattsson/rigc).
 * [StarTech Ethernet-to-Serial server](https://amzn.to/3Rbpavz)<sup>1</sup> for the Multi-Viewer (direct serial currently has [issues](https://discussions.apple.com/thread/255763367)).
 * [StarTech USB-C hub with Ethernet](https://amzn.to/41VmMho)<sup>1</sup> for more ports.
+* [Belkin USB-C hub](https://amzn.to/46NVgpZ) for even more ports.
 * [Elgato Stream Deck MK.2](https://amzn.to/3WBBTeh).
 * [Elgato Stream Deck Pedal](https://amzn.to/3WBnoHb) for fast switching.
-* [Belkin USB-C to HDMI](https://amzn.to/4ixpTmD) for an additional HDMI port.
 * [Lilliput A11](https://amzn.to/4aDkbwz) for chat and stream monitoring.
 * [Atomos Ninja 5.2"](https://amzn.to/40MYM0y) 4K HDMI recording monitor.
-* 2 x VILTROX L132T (discontinued [L116T](https://amzn.to/3WBWPBL) sub) LED lights.
+* 2 x VILTROX L132T (discontinued [L116T](https://amzn.to/3WBWPBL) sub) LED light for talent.
+* 2 x [VILTROX L116T](https://amzn.to/3WBWPBL) LED lights for playfield.
 * [Audio-Technica AT2040](https://amzn.to/42vJu1v) player mic with a [Behringer VU1](https://amzn.to/3QDQ5QB).
 * [Audio-Technica AE3000](https://amzn.to/42oSuWl) backbox mic on a dbx 166xs (discontinued, sub [dbx 266xs](https://amzn.to/4jvoYEr)) channel.
 * [Shure PGA52-XLR](https://amzn.to/3E7xd9E) cabinet mic on the other dbx 166xs (discontinued, sub [dbx 266xs](https://amzn.to/4jvoYEr)) channel.
 * [Mackie 1202VLZ4](https://amzn.to/3CdY6It) mixer.
-* [LUMIX GH5M2](https://amzn.to/42pZZfJ) playfield camera with a [LUMIX G Vario 12-35mm](https://amzn.to/4ktnxH4) lens.
-* [LUMIX GH5M2](https://amzn.to/42pZZfJ) player camera with a [Laowa 6mm f/2 Zero-D](https://www.venuslens.net/product/laowa-6mm-f-2-zero-d-mft/) lens.
-* LUMIX GX85 (discontinued, [G85](https://amzn.to/40vciVw) sub) score camera with LUMIX G Vario 12-60mm lens.
-* [LUMIX GH5M2](https://amzn.to/42pZZfJ) B camera with various lenses.
-* [Accsoon CineView HE](https://amzn.to/3CxGXcA) for local program output to the arcade TV.
-* [Sony MDR-EX15LP](https://amzn.to/3E6hHdW) ear buds.
+* [LUMIX GH5M2](https://amzn.to/42pZZfJ) playfield camera with a [LUMIX 10-25mm](https://amzn.to/3KQHaLL) lens.
+* [LUMIX GH5M2](https://amzn.to/42pZZfJ) player camera with a [LUMIX 9mm](https://amzn.to/42E4HWx) lens.
+* LUMIX GX85 (discontinued, [G85](https://amzn.to/40vciVw) sub) score camera with various lenses, most recently [LUMIX G 25mm](https://amzn.to/4h4jZcV) (works great for DMDs).
+* [LUMIX GH5M2](https://amzn.to/42pZZfJ) B camera with various lenses but [LUMIX 12-60mm](https://amzn.to/4n133Wk) most of the time.
+* [Accsoon CineView HE](https://amzn.to/3CxGXcA) for local program output to the studio TV.
+* [Mackie MP-240](https://amzn.to/3PRyCn7) IEMs.
+* [Sennheiser IEM G4](https://amzn.to/3CsfPfd) transmitter for IEMs.
+* 2 x [Sennheiser EM 100 G4](https://amzn.to/40Po9yU) receivers for roaming talent in the studio.
 
-The Atomos recorder uses the passthrough of the capture card and records the multi-viewer output in 2160p60 with the mixer output. Highlights destined for YouTube are rendered through a template in DaVinci Resolve for that souped up 4K rendering.
+The Ninja recorder uses the passthrough of the capture card and records the multi-viewer output in 2160p60 with the mixer output. Highlights destined for YouTube are rendered through a template in DaVinci Resolve for that souped up 4K rendering.
+
+MacBooks are finicky when it comes to USB-C to HDMI adapters. Only use Apple approved hardware, like this one: [Belkin USB-C to HDMI](https://amzn.to/4ixpTmD).
 
 <small><sup>1</sup> = The StarTech hub and ethernet-to-serial server is sandwiched together and used in the pocket and event transform as well.</small>
 
@@ -136,7 +141,7 @@ The notorious "pocket rig" has seen the most evolution as I've always wanted to 
 
 This is the configuration that captured that notorious [Metallica game at Pinball Expo '24](https://youtu.be/4yKe8FUl7aE?si=flF8HHLuf5HjrRCF). It has everything needed mounted to the rig that allow about four hours of game capture/streaming.
 
-The only components shared with the home rig is the laptop and the Stream Deck. The Atomos recorder might go into this build for a higher quality event capture.
+The only components shared with the studio rig is the laptop and the Stream Deck. The Atomos recorder might go into this build for a higher quality event capture.
 
 <figure class="align-right" style="width: 33%">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/gear/pocket-2025-01-29.jpg" alt="" />
@@ -144,12 +149,11 @@ The only components shared with the home rig is the laptop and the Stream Deck. 
 </figure>
 * [OREI UHD-401MV 4x1 HDMI Multi-Viewer](https://amzn.to/4hu6cLV) with [RigC](https://github.com/datamattsson/rigc).
 * [AVerMedia Live Gamer Ultra 2.1](https://amzn.to/40Z4EEp) capture card.
-* 2 x [RØDE VideoMic GO II](https://amzn.to/40OxW8A).
-* [Belkin Connect USB-CTM to 4-Port USB-C Hub](https://amzn.to/3ElUcgZ) for more ports.
+* 3 x [RØDE VideoMicro II](https://amzn.to/3L73Vev). Player, backbox and cab.
 * VILTROX L132T (discontinued [L116T](https://amzn.to/3WBWPBL) sub) LED light for the playfield.
 * [Logitech Litra Glow](https://amzn.to/4giYP8W) player light.
-* [LUMIX GH5S](https://amzn.to/4kwCWWc) with a [LUMIX G FISHEYE 8mm f/3.5](https://amzn.to/4mtRE20) lens.
-* [Panasonic V785K](https://amzn.to/3ElUCE5)<sup>1</sup> playfield camera.
+* [LUMIX GH5S](https://amzn.to/4kwCWWc) player camera with a [Laowa 6mm f/2 Zero-D](https://www.venuslens.net/product/laowa-6mm-f-2-zero-d-mft/) lens.
+* [LUMIX G85](https://amzn.to/40vciVw) with a [LUMIX G 15mm](https://amzn.to/48Y0gcP) lens for the playfield.
 * [Panasonic V785K](https://amzn.to/3ElUCE5)<sup>1</sup> score camera.
 * 3 x [AMEGAT/Alfox/Ravpower 140W 27600mAh](https://amzn.to/44WWflj) power banks for all gear except laptop.
 * 2 x [UGREEN 145W 25000mAh](https://amzn.to/4hu6pib) for the laptop.
@@ -168,21 +172,18 @@ This adds another [Pelican 1510](https://amzn.to/4h9MtkU) case of gear to the ev
 
 An additional harness is tacked onto the rig and make the mics go analog and adds an additional mic for the cabinet.
 
-* [TP-Link AXE75](https://amzn.to/40zFwm8) mesh satellite (scrapped, testing a new brand TBA).
+* [LinkSys MR7500](https://amzn.to/3VXBaDv) mesh satellite.
 * [KiloView N60](https://amzn.to/4jyquFN) NDI encoder.
 * StarTech NETRS2321P (discontinued, [sub](https://amzn.to/3Rbpavz)) Serial-to-Ethernet for RigC.
 * [Maker hart Just Mic 4 mini](https://amzn.to/43qsDft) mixer.
-* [RØDE VideoMicro II](https://amzn.to/4jLHMQ7) for the cabinet.
 
 The broadcast station is scarce in this setup and has the following components:
 
-* [TP-Link AXE75](https://amzn.to/40zFwm8) mesh router (scrapped, testing a new brand TBA).
+* [LinkSys MR7500](https://amzn.to/3VXBaDv) mesh router.
 * [CalDigit Thunderbolt 3 Mini Dock](https://amzn.to/3E8RUlr) for more ports.
 * [Lilliput A7s](https://amzn.to/40pvT9u) for chat and stream monitoring.
-* [Black Magic Design Monitor 3G](https://amzn.to/4htAwGs) for program recording.
-* [ASUS ProArt Display 14"](https://amzn.to/3CsfKbp) monitor for broadcasters.
-* [Insta360 Link](https://amzn.to/40yCNJp) broadcast talent camera.
-* 2 x [Koss Porta Pro](https://amzn.to/3Eduw6r) headsets.
+* [Blackmagic Design Monitor 3G](https://amzn.to/4htAwGs) for program recording and monitoring at the venue.
+* 2 x [Koss Porta Pro](https://amzn.to/3Eduw6r) headsets (rarely used during one day tournaments).
 * [Focusrite Vocaster Two](https://amzn.to/4hxzFEA) for headsets.
 
 Technically, the single day rig can be flown with if there's two people traveling as the gear needs to be in the cabin and the rig in the hold.
@@ -197,12 +198,13 @@ The multi day tournament transform uses all the gear from the single day transfo
 
 * [OREI 1x4 HDMI splitter](https://amzn.to/3CsGybr) for program outputs.
 * [Dell 27" FullHD](https://amzn.to/40OSMoc) monitor.
+* [iPad A16](https://amzn.to/474MnHg) with [Telestripe](https://apps.apple.com/us/app/telestripe/id6443420670) for [telestration](https://youtu.be/oJVAVynnHX0).
 * [Magewell UltraEncode HDMI Plus](https://www.magewell.com/products/ultra-encode-hdmi-plus) for telestrating output over NDI.
-* [Surface Go 3](https://amzn.to/4jx3A1p) with [WebRTC-Telestrator](https://github.com/BlankSourceCode/WebRTC-Telestrator).
-* An additional [Koss Porta Pro](https://amzn.to/3Eduw6r) headset.
+* An additional [Koss Porta Pro](https://amzn.to/3Eduw6r) headset for roaming.
 * [Sennheiser EM 100 G4](https://amzn.to/40Po9yU) receiver.
 * [Sennheiser IEM G4](https://amzn.to/3CsfPfd) transmitter.
-* 2 x [VILTROX L116T](https://amzn.to/3WBWPBL) talent lights.
+* 2 x [VILTROX L116T](https://amzn.to/3WBWPBL) commentator talent lights.
+* [OBSBOT Tiny 2](https://amzn.to/4n0awVk) broadcast talent camera.
 
 The additional headset is completely wireless for both monitoring and voice and allows the broadcaster to roam freely and commentate and manage the stream from anywhere in the venue.
 
@@ -322,6 +324,7 @@ Two rifle cases ([Harbor Freight models](https://www.harborfreight.com/9800-weat
 
 # Changelog
 
+* 2025-10-11: New lenses on the studio rig. Added wireless mic and monitors. Swapped around cameras on the pocket rig for the next event and updated a few other items.
 * 2025-07-21: Updated power bank links.
 * 2025-05-22: New pocket mixer, decommissioned [Zoom AMS-44](https://amzn.to/4aASioN), new player camera, decommissioned [LUMIX G85](https://amzn.to/40vciVw).
 * 2025-03-15: New USB hub. Clarified white balance on the V785/V770's. B-cam rig.
