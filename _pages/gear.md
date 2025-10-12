@@ -3,7 +3,7 @@ layout: splash
 title: GEAR FOR PINBALL AND ARCADE STREAMING
 permalink: /gear
 date: 2025-01-26T00:00
-last_modified_at: 2025-03-15T00:00
+last_modified_at: 2025-10-11T00:00
 header:
   video:
     id: AUOamxsqLo8
@@ -323,7 +323,7 @@ Two rifle cases ([Harbor Freight models](https://www.harborfreight.com/9800-weat
 {% include feature_row id="feature_row3" type="left" %}
 
 # Changelog
-
+<!-- update last_modified_at in header -->
 * 2025-10-11: New lenses on the studio rig. Added wireless mic and monitors. Swapped around cameras on the pocket rig for the next event and updated a few other items.
 * 2025-07-21: Updated power bank links.
 * 2025-05-22: New pocket mixer, decommissioned [Zoom AMS-44](https://amzn.to/4aASioN), new player camera, decommissioned [LUMIX G85](https://amzn.to/40vciVw).
