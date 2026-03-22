@@ -8,6 +8,8 @@ main:
     url: /gear
   - title: "Swag"
     url: /swag
+  - title: "Connect"
+    url: /connect
   - title: "RigC <i class='fa-solid fa-arrow-up-right-from-square'></i>"
     url: https://github.com/datamattsson/rigc
     target: _blank
