@@ -3,7 +3,7 @@ layout: splash
 title: GEAR FOR PINBALL AND ARCADE STREAMING
 permalink: /gear
 date: 2025-01-26T00:00
-last_modified_at: 2026-02-18T00:00
+last_modified_at: 2026-05-08T00:00
 header:
   video:
     id: AUOamxsqLo8
@@ -149,15 +149,14 @@ The only components shared with the studio rig is the laptop and the Stream Deck
   <figcaption>The Pocket Rig. Photo by <a href="https://www.instagram.com/braddukeart/">Brad Duke</a>.</figcaption>
 </figure>
 * [OREI UHD-401MV 4x1 HDMI Multi-Viewer](https://amzn.to/4hu6cLV) with [RigC](https://github.com/datamattsson/rigc).
-* [AVerMedia Live Gamer Ultra 2.1](https://amzn.to/40Z4EEp) capture card.
+* [Magewell USB Capture HDMI 4K Pro](https://amzn.to/4fbmFGI) capture card (downgrade firmware for Apple Silicon support)
 * 3 x [RØDE VideoMicro II](https://amzn.to/3L73Vev). Player, backbox and cab.
 * VILTROX L132T (discontinued [L116T](https://amzn.to/3WBWPBL) sub) LED light for the playfield.
 * [Logitech Litra Glow](https://amzn.to/4giYP8W) player light.
 * [LUMIX GH5S](https://amzn.to/4kwCWWc) player camera with a [Laowa 6mm f/2 Zero-D](https://www.venuslens.net/product/laowa-6mm-f-2-zero-d-mft/) lens.
 * [LUMIX G97](https://amzn.to/4auuULC) with a [LUMIX G 15mm](https://amzn.to/48Y0gcP) lens for the playfield.
 * [Panasonic V785K](https://amzn.to/3ElUCE5)<sup>1</sup> score camera with [fisheye attachment](https://amzn.to/4kHJjr4) (Banzai Run, mostly)
-* 3 x [Alfox/Ravpower/AMEGAT/UGREEN 200W 25000mAh](https://amzn.to/40659eB) power banks for all gear except laptop.
-* 2 x [UGREEN 145W 25000mAh](https://amzn.to/4hu6pib) for the laptop.
+* 6 x [Core SWX Powerbase Edge Snap Xtreme](https://amzn.to/3OVEQFY) batteries.
 
 All the gear needed for the event rig fits into two [Pelican 1510](https://amzn.to/4h9MtkU) carry-on sized cases.
 
@@ -256,7 +255,7 @@ I've been through some gear over the years in terms of mounts, stands and other 
 - When using a USB-C port to yield another HDMI port, use high quality adapters. Brands certified with Apple works best. Like [this Belkin](https://amzn.to/4ixpTmD). Off brands may glitch and that glitch will cause OBS to crash (on Mac).
 * [Anker 4-Port USB 3.0](https://amzn.to/3CkSs7j) works for more USB-A ports and [Belkin 4-Port USB-C Hub](https://amzn.to/3ElUcgZ) for more USB-C ports.
 
-The power banks I buy at the moment provide two USB-PD ports and one USB-A, here's is an example [UGREEN 200W 25000mAh](https://amzn.to/4rVhFZX). These are OEMs and I don't know the source. Ravpower had them first but then a ton of other brands started to carry them. The display with the individual draw per port is brilliant as it's easy to balance and you get immediate feedback if there's draw from the connected device.
+The batteries I currently buy are the [Core SWX Powerbase Edge Snap Xtreme](https://amzn.to/3OVEQFY). They snap together and provide non-disruptive hot swap of batteries. Learn more in [this YouTube review](https://youtu.be/fBBMZlzKZUo) where I showcase the setup I have. The batteries snap to a [Quick Release Plate](https://amzn.to/4u0ShUl) that in turn snaps into a [V-Mount lock](https://amzn.to/42YBl4K) on the 1515 profile (use these [t-nuts](https://amzn.to/4tZ5JI1)). I use Kondor Blue for [P-tap to USB-PD](https://amzn.to/3QV6bss) and this [P-tap to dual USB-A](https://amzn.to/4wg9wlW) cable.
 
 **Pro-Tip:** The brand Anker seems to have very compelling power banks, warts, bricks and plugs. *READ THE FINE PRINT:* I've not come across a single product that does 12V 3A which is the most common voltage USB-PD is used for.
 {: .notice--danger}
@@ -326,6 +325,7 @@ Two rifle cases ([Harbor Freight models](https://www.harborfreight.com/9800-weat
 
 # Changelog
 <!-- update last_modified_at in header -->
+* 2026-05-08: Added Core SWX batteries and clarified the power situation. Replaced AVerMedia with Magewell.
 * 2026-02-19: Added another Kiloview N60 to the wireless setup for decoding (offloading my poor Mac). Replaced G/GX85 for G97 as sub and the pocket rig now sports a G97 playfield camera with a nice prime lens that lets in more light ([example](https://www.youtube.com/watch?v=jBHqMwlH4Sw)). Clarified power banks, again.
 * 2025-10-11: New lenses on the studio rig. Added wireless mic and monitors. Swapped around cameras on the pocket rig for the next event and updated a few other items.
 * 2025-07-21: Updated power bank links.
