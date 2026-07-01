@@ -66,7 +66,7 @@ This page contains the rough bill of materials for various streaming rig setups 
 - [Lynn's Arcade](#lynns-arcade) in Seaside, CA
 - [The Rewind Arcade](#the-rewind-arcade) in Sebastopol, CA
 
-Make sure to check out the [Start Streaming Pinball!](https://youtu.be/AUOamxsqLo8) ([slides](https://bit.ly/gspf2024)) talk on YouTube and join us on Tilt Forums to discuss [Twitch/livestream setups](https://tiltforums.com/t/twitch-livestream-setups/107).
+Make sure to check out the [Start Streaming Pinball!](https://youtu.be/AUOamxsqLo8) ([slides](https://bit.ly/gspf2024)) talk on YouTube and join us on Discord to discuss [#diy-builds-and-broadcasts](https://pinballpeople.com/) with the Pinball People.
 
 All the 8020 frames I've built stem from [this basic frame](https://docs.google.com/spreadsheets/d/1iUT8dXKl584KpI9j4cvNnXwCEF2QxplG75yA9rWUVCc/edit?gid=0#gid=0) by Karl DeAngelo. Just pay attention to if you need to roll your rig through door frames as his design does not roll under standard door frames with roller skate sized wheels. I shortened the vertical segments by 1/2". I have a ton of add-ons I might document in the future though.
 
