@@ -283,7 +283,7 @@ Built from leftovers designed for tournament streaming. It's turnkey and include
 
 * Standard 8020 rig that fits over wide body games and under standard door frames. Black finish. Can be broken down to flight case lengths if needed. Some parts are new, some are old. Includes T-handles for assembly and roller skate wheels.
 * Four power banks (RAVPower and UGREEN) with about eight hours of runtime, includes four 30W chargers.
-* [VILTROX L116T](https://amzn.to/3WBWPBL)) playfield light with custom hood
+* [VILTROX L116T](https://amzn.to/3WBWPBL) playfield light with custom hood
 * [Logitech Litra Glow](https://amzn.to/4giYP8W) player light with custom hood
 * Monoprice 1080p60 (discontinued, sub [OREI UHD-401MV 4x1 HDMI Multi-Viewer](https://amzn.to/4hu6cLV)) multiviewer with remote
 * [Monoprice WiHD](https://amzn.to/3Sxo0Pr) transmitter on a rotatable rod
@@ -296,6 +296,8 @@ Built from leftovers designed for tournament streaming. It's turnkey and include
 * [Elgato HD60 X](https://amzn.to/45WZWbU) capture card (requires USB 3.0 5Gbit/s)
 * Includes all cabling, color coded where needed, one single harness that snaps onto the t-slot. 
 * Includes several t-slot extensions, magic arms and mounts.
+
+Interested? [Connect](connect).
 
 {% include feature_row id="feature_row4" type="right" %}
 
