@@ -3,7 +3,7 @@ layout: splash
 title: GEAR FOR PINBALL AND ARCADE STREAMING
 permalink: /gear
 date: 2025-01-26T00:00
-last_modified_at: 2026-05-08T00:00
+last_modified_at: 2026-08-30T00:00
 header:
   video:
     id: AUOamxsqLo8
@@ -34,6 +34,14 @@ feature_row3:
     url: "https://twitch.tv/therewindarcade"
     btn_label: 'Watch LIVE on Twitch <i class="fa-solid fa-arrow-up-right-from-square"></i>'
     btn_class: "btn--inverse"
+feature_row4:
+  - image_path: /assets/images/gear/blank-16x9.png
+    alt: "For sale"
+    title: "TBD"
+    excerpt: "This rig is for sale!"
+    url: "https://dri374.live/gear"
+    btn_label: 'dri374.live/gear <i class="fa-solid fa-arrow-up-right-from-square"></i>'
+    btn_class: "btn--inverse"
 ---
 
 <style type="text/css">
@@ -63,6 +71,7 @@ This page contains the rough bill of materials for various streaming rig setups 
 - [The Pocket Rig](#the-pocket-rig) (tournament and event rig)
 - [The Flying B-Cam](#the-flying-b-cam) (the unboxing setup)
 - [Miscellaneous](#miscellaneous) (my favorite nick-nacks)
+- [For Sale](#for-sale) (a project rig for sale)
 - [Lynn's Arcade](#lynns-arcade) in Seaside, CA
 - [The Rewind Arcade](#the-rewind-arcade) in Sebastopol, CA
 
@@ -262,6 +271,34 @@ The batteries I currently buy are the [Core SWX Powerbase Edge Snap Xtreme](http
 
 {% include feature_row id="feature_row1" type="left" %}
 
+# For Sale
+
+<figure class="align-right" style="width: 33%">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/gear/for-sale-rig-2026-08-30.jpg" alt="" />
+  <figcaption>Testing, testing....</figcaption>
+</figure>
+This is the current project rig that is for sale. It may already be sold. Watch a demo of what [this equipment is capable of](https://youtu.be/1eOcqPbpwjo) on YouTube.
+
+Built from leftovers designed for tournament streaming. It's turnkey and includes everything needed to start streaming. Does not include a computer. The capture card it comes with is a standard UVC capture card and works on any OS. Worth noting is that there is no commentary solution included. The entire rig fits into a single [rifle case](https://www.harborfreight.com/9800-weatherproof-protective-rifle-case-long-black-64520.html) that is included. Requires line of sight between the rig and streaming computer.
+
+* Standard 8020 rig that fits over wide body games and under standard door frames. Black finish. Can be broken down to flight case lengths if needed. Some parts are new, some are old. Includes T-handles for assembly and roller skate wheels.
+* Four power banks (RAVPower and UGREEN) with about eight hours of runtime, includes four 30W chargers.
+* [VILTROX L116T](https://amzn.to/3WBWPBL)) playfield light with custom hood
+* [Logitech Litra Glow](https://amzn.to/4giYP8W) player light with custom hood
+* Monoprice 1080p60 (discontinued, sub [OREI UHD-401MV 4x1 HDMI Multi-Viewer](https://amzn.to/4hu6cLV)) multiviewer with remote
+* [Monoprice WiHD](https://amzn.to/3Sxo0Pr) transmitter on a rotatable rod
+* [Monoprice WiHD](https://amzn.to/3Sxo0Pr) receiver with a rotatable desk clamp
+* RØDE VideoMic GO (discontinued, sub [VideoMicro GO II](https://amzn.to/4gId6hQ)) for player
+* RØDE VideoMic GO (discontinued, sub [VideoMicro GO II](https://amzn.to/4gId6hQ)) for backbox
+* LUMIX G85 (discontinued, sub [G97](https://amzn.to/4auuULC)) player camera with a [Panasonic LUMIX G 14mm/F2.5](https://amzn.to/4qRnCIo) lens.
+* Panasonic V785K (discontinued, sub [V900](https://amzn.to/4gId6hQ)) playfield camera
+* Panasonic V785K (discontinued, sub [V900](https://amzn.to/4gId6hQ)) score camera with wide angle filter (streams Banzai Run like a breeze!)
+* [Elgato HD60 X](https://amzn.to/45WZWbU) capture card (requires USB 3.0 5Gbit/s)
+* Includes all cabling, color coded where needed, one single harness that snaps onto the t-slot. 
+* Includes several t-slot extensions, magic arms and mounts.
+
+{% include feature_row id="feature_row4" type="right" %}
+
 # Lynn's Arcade
 
 The rig at Lynn's I originally built for myself but the arcade decided to buy it. There's been a few upgrades over the years and this list is the current known list of equipment.
@@ -325,6 +362,7 @@ Two rifle cases ([Harbor Freight models](https://www.harborfreight.com/9800-weat
 
 # Changelog
 <!-- update last_modified_at in header -->
+* 2026-08-30: Added "For sale" rig.
 * 2026-05-08: Added Core SWX batteries and clarified the power situation. Replaced AVerMedia with Magewell.
 * 2026-02-19: Added another Kiloview N60 to the wireless setup for decoding (offloading my poor Mac). Replaced G/GX85 for G97 as sub and the pocket rig now sports a G97 playfield camera with a nice prime lens that lets in more light ([example](https://www.youtube.com/watch?v=jBHqMwlH4Sw)). Clarified power banks, again.
 * 2025-10-11: New lenses on the studio rig. Added wireless mic and monitors. Swapped around cameras on the pocket rig for the next event and updated a few other items.
