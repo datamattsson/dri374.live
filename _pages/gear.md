@@ -3,7 +3,7 @@ layout: splash
 title: GEAR FOR PINBALL AND ARCADE STREAMING
 permalink: /gear
 date: 2025-01-26T00:00
-last_modified_at: 2026-08-30T00:00
+last_modified_at: 2026-10-11T00:00
 header:
   video:
     id: AUOamxsqLo8
@@ -42,6 +42,14 @@ feature_row4:
     url: "https://dri374.live/gear"
     btn_label: 'dri374.live/gear <i class="fa-solid fa-arrow-up-right-from-square"></i>'
     btn_class: "btn--inverse"
+feature_row5:
+  - image_path: /assets/images/gear/blank-16x9.png
+    alt: "TWITCH.TV"
+    title: "Underground arcade at an undisclosed location"
+    excerpt: "TBA"
+    url: "https://dri374.live/gear"
+    btn_label: 'dri374.live/gear <i class="fa-solid fa-arrow-up-right-from-square"></i>'
+    btn_class: "btn--inverse"
 ---
 
 <style type="text/css">
@@ -74,6 +82,7 @@ This page contains the rough bill of materials for various streaming rig setups 
 - [For Sale](#for-sale) (a project rig for sale)
 - [Lynn's Arcade](#lynns-arcade) in Seaside, CA
 - [The Rewind Arcade](#the-rewind-arcade) in Sebastopol, CA
+- [Underground Arcade](#underground-arcade) in Undisclosed, US
 
 Make sure to check out the [Start Streaming Pinball!](https://youtu.be/AUOamxsqLo8) ([slides](https://bit.ly/gspf2024)) talk on YouTube and join us on Discord to discuss [#diy-builds-and-broadcasts](https://pinballpeople.com/) with the Pinball People.
 
@@ -149,27 +158,37 @@ The notorious "pocket rig" has seen the most evolution as I've always wanted to 
 
 ### The Event Transform
 
-This is the configuration that captured that notorious [Metallica game at Pinball Expo '24](https://youtu.be/4yKe8FUl7aE?si=flF8HHLuf5HjrRCF). It has everything needed mounted to the rig that allow about four hours of game capture/streaming.
+This is the configuration that captured that notorious [Metallica game at Pinball Expo '24](https://youtu.be/4yKe8FUl7aE?si=flF8HHLuf5HjrRCF). It has everything needed mounted to the rig that allow about four hours of game capture/streaming. There's been some water under the bridge since then and stay tuned for a Pinball Expo '26 example.
 
-The only components shared with the studio rig is the laptop and the Stream Deck. The Atomos recorder might go into this build for a higher quality event capture.
+The only components shared with the studio rig is the Atomos recorder.
 
 <figure class="align-right" style="width: 33%">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/gear/pocket-2025-01-29.jpg" alt="" />
   <figcaption>The Pocket Rig. Photo by <a href="https://www.instagram.com/braddukeart/">Brad Duke</a>.</figcaption>
 </figure>
 * [OREI UHD-401MV 4x1 HDMI Multi-Viewer](https://amzn.to/4hu6cLV) with [RigC](https://github.com/datamattsson/rigc).
-* [Magewell USB Capture HDMI 4K Pro](https://amzn.to/4fbmFGI) capture card (downgrade firmware for Apple Silicon support)
 * 3 x [RØDE VideoMicro II](https://amzn.to/3L73Vev). Player, backbox and cab.
+* [Maker hart Just Mic 4 mini](https://amzn.to/43qsDft) mixer.
 * VILTROX L132T (discontinued [L116T](https://amzn.to/3WBWPBL) sub) LED light for the playfield.
 * [Logitech Litra Glow](https://amzn.to/4giYP8W) player light.
-* [LUMIX GH5S](https://amzn.to/4kwCWWc) player camera with a [Laowa 6mm f/2 Zero-D](https://www.venuslens.net/product/laowa-6mm-f-2-zero-d-mft/) lens.
-* [LUMIX G97](https://amzn.to/4auuULC) with a [LUMIX G 15mm](https://amzn.to/48Y0gcP) lens for the playfield.
-* [Panasonic V785K](https://amzn.to/3ElUCE5)<sup>1</sup> score camera with [fisheye attachment](https://amzn.to/4kHJjr4) (Banzai Run, mostly)
+* [LUMIX GH5s](https://amzn.to/4zvR49W) player camera with a [Laowa 6mm f/2 Zero-D](https://www.venuslens.net/product/laowa-6mm-f-2-zero-d-mft/) lens.
+* [LUMIX GH5s](https://amzn.to/4zvR49W) with a [Laowa 17mm f/1.8](https://amzn.to/4B2xzY0) lens for the playfield.
+* [LUMIX GX85](https://amzn.to/4rX5vBj) score camera with an [Olympus M.Zuiko Digital ED 12-200mm f/3.5-6.3](https://amzn.to/4s2axwr) lens.
 * 6 x [Core SWX Powerbase Edge Snap Xtreme](https://amzn.to/3OVEQFY) batteries.
 
-All the gear needed for the event rig fits into two [Pelican 1510](https://amzn.to/4h9MtkU) carry-on sized cases.
+The Gimbal Solution&trade;:
 
-<small><sup>1</sup> = Both the Panasonic V785K and V770K are a bit finicky to set the correct white balance on. Put [this card](https://amzn.to/43S6g4r) on the playfield glass, zoom in, and use that to program the white balance for your venue. It will be saved between power cycles.</small>
+For pinball shows where I'm not streaming and only recording games and conversations, I tack on my recorder and an NDI encoder to have an iPhone on a gimbal to capture other footage that won't be possible with a rather static three camera setup, like closeups with a flyby sprinkled on top.
+
+* [iPhone 16e](https://amzn.to/4yHMFjU) refurbished with the [NDI Camera: Easy Streaming](https://apps.apple.com/us/app/ndi-camera-easy-streaming/id1477266080) app.
+* [DJI Osmo Mobile 6](https://amzn.to/4rZ4Vmg) gimbal.
+* [GL.iNet GL-AXT1800 Slate AX](https://amzn.to/4zx2ASt) access point for the iPhone.
+* [CNDLive NDI Go](https://amzn.to/4jgbqz5) NDI encoder connected to the fourth Multi-Viewer input.
+* [Atomos Ninja 5.2"](https://amzn.to/40MYM0y) 4K60 HDMI recorder with quad 1080p60 scenes.
+
+The gimbal is also used during tournaments to capture TD announcements and miscellaneous action.
+
+All the gear needed for the event rig fits into two [Pelican 1510](https://amzn.to/4h9MtkU) carry-on sized cases.
 
 ### The Single Day Tournament Transform
 <figure class="align-right" style="width: 35%">
@@ -184,7 +203,6 @@ An additional harness is tacked onto the rig and make the mics go analog and add
 * [LinkSys MR7500](https://amzn.to/3VXBaDv) mesh satellite.
 * [KiloView N60](https://amzn.to/4jyquFN) NDI encoder.
 * StarTech NETRS2321P (discontinued, [sub](https://amzn.to/3Rbpavz)) Serial-to-Ethernet for RigC.
-* [Maker hart Just Mic 4 mini](https://amzn.to/43qsDft) mixer.
 
 The broadcast station is scarce in this setup and has the following components:
 
@@ -232,7 +250,7 @@ During unboxing and other tech type streams I have a "flying b-cam", it's not re
 * [Logitech Litra Glow](https://amzn.to/4giYP8W) light.
 * [DJI Mic 2](https://amzn.to/3Rgksws) wireless mics, usually with [Shure MVL](https://amzn.to/3XVJgO6) lavaliers.
 * [Accsoon CineView Master 4K](https://amzn.to/43S6R6b) for 2160p60 or 1080p60 HDMI transmission.
-* [Blackmagic Design UltraStudio Recorder 3G](https://amzn.to/41utjj1)<sup>1</sup> for unboxing streams at Lynn's Arcade, otherwise it's plugged into the multi-viewer.
+* [Magewell USB Capture HDMI 4K Pro](https://amzn.to/4fbmFGI) capture card.
 * [SmallRig NP-F970 battery](https://amzn.to/3Rabukm) powers camera, light and transmitter for about four hours.
 * [Manfrotto Tripod](https://amzn.to/41uvWkT) for stationary shots.
 
@@ -262,7 +280,8 @@ I've been through some gear over the years in terms of mounts, stands and other 
 - Faracent makes excellent [USB-PD extension cords](https://amzn.to/3ChLEYb) (up to 10').
 - Blind Spot makes very professional [USB-PD to DC barrel](https://amzn.to/40xWJfH) cables but [many cheaper](https://amzn.to/3Wzgand) and [more practical](https://amzn.to/40QPmRL) cables exist, work and [sometimes more flexible](https://amzn.to/4hqMr7Y) on the output (check your power bank and device).
 - When using a USB-C port to yield another HDMI port, use high quality adapters. Brands certified with Apple works best. Like [this Belkin](https://amzn.to/4ixpTmD). Off brands may glitch and that glitch will cause OBS to crash (on Mac).
-* [Anker 4-Port USB 3.0](https://amzn.to/3CkSs7j) works for more USB-A ports and [Belkin 4-Port USB-C Hub](https://amzn.to/3ElUcgZ) for more USB-C ports.
+- [Anker 4-Port USB 3.0](https://amzn.to/3CkSs7j) works for more USB-A ports and [Belkin 4-Port USB-C Hub](https://amzn.to/3ElUcgZ) for more USB-C ports.
+- Having trouble setting the white balance? [This card](https://amzn.to/43S6g4r) is very handy to have in your wallet. For more serious color grading business, [this is the one](https://amzn.to/3VFAKVo) you want.
 
 The batteries I currently buy are the [Core SWX Powerbase Edge Snap Xtreme](https://amzn.to/3OVEQFY). They snap together and provide non-disruptive hot swap of batteries. Learn more in [this YouTube review](https://youtu.be/fBBMZlzKZUo) where I showcase the setup I have. The batteries snap to a [Quick Release Plate](https://amzn.to/4u0ShUl) that in turn snaps into a [V-Mount lock](https://amzn.to/42YBl4K) on the 1515 profile (use these [t-nuts](https://amzn.to/4tZ5JI1)). I use Kondor Blue for [P-tap to USB-PD](https://amzn.to/3QV6bss) and this [P-tap to dual USB-A](https://amzn.to/4wg9wlW) cable.
 
@@ -320,13 +339,13 @@ The rig at Lynn's I originally built for myself but the arcade decided to buy it
 
 Broadcaster station. 
 
-* [HP desktop PC with a GeForce RTX 3080](https://amzn.to/4ax9mME)
-* 3 x [Accsoon CineView HE](https://amzn.to/3CxGXcA) receivers
-* Dual displays for monitoring (unknown)
-* [Magewell Quad HDMI](https://amzn.to/3WyM7Mv) capture card
-* [Rodecaster Duo 2](https://amzn.to/40yEbM9) mixer
-* 2 x [Audio-Technica BPHS1](https://amzn.to/3Wzt4l6) headsets
-* LUMIX GX85 (discontinued, sub [G97](https://amzn.to/4auuULC)) talent camera with a [Laowa 6mm f/2 Zero-D](https://www.venuslens.net/product/laowa-6mm-f-2-zero-d-mft/) lens
+* [HP desktop PC with a GeForce RTX 3080](https://amzn.to/4ax9mME).
+* 3 x [Accsoon CineView HE](https://amzn.to/3CxGXcA) receivers.
+* Dual displays for monitoring (unknown).
+* [Magewell Quad HDMI](https://amzn.to/3WyM7Mv) capture card.
+* [Rodecaster Duo 2](https://amzn.to/40yEbM9) mixer.
+* 2 x [Audio-Technica BPHS1](https://amzn.to/3Wzt4l6) headsets.
+* LUMIX GX85 (discontinued, sub [G97](https://amzn.to/4auuULC)) talent camera with a [Laowa 6mm f/2 Zero-D](https://www.venuslens.net/product/laowa-6mm-f-2-zero-d-mft/) lens.
 
 The rig at Lynn's Arcade can be "rented" at the arcade if you bring a laptop with a USB4 or TB3 port. Affectionately called the Rent-A-Rig (or RAR). Instructions how to use the RAR will be made available soon.
 
@@ -340,30 +359,61 @@ The Rewind Arcade picked up my previous generation of gear that was PC based usi
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/gear/rewind-case-2025-01-29.jpg" alt="" />
   <figcaption>The rig built for The Rewind Arcade.</figcaption>
 </figure>
-* 3 x Accsoon CineEye 2S Pro (discontinued, sub [CineView HE](https://amzn.to/3CxGXcA)) transmitters
-* GoPro Hero 11 (discontinued, sub [13 w/ MediaMod](https://amzn.to/42oBVtE)) player camera
-* [Panasonic V785K](https://amzn.to/3ElUCE5) score camera
-* Sony CX405 (trash, sub [V785K](https://amzn.to/3ElUCE5)) score camera
-* 2 x RØDE VideoMic GO (discontinued, sub [VideoMicro II](https://amzn.to/4jLHMQ7))
-* 2 x [VILTROX L116T LED](https://amzn.to/3WBWPBL) lights
-* 5 x 30,000mAh RAVPower (discontinued, sub [Alfox/Ravpower/AMEGAT/UGREEN 200W 25000mAh](https://amzn.to/40659eB) or [HenHot 30,000mAh](https://amzn.to/4m54Byo)) banks
+* 3 x Accsoon CineEye 2S Pro (discontinued, sub [CineView HE](https://amzn.to/3CxGXcA)) transmitters.
+* GoPro Hero 11 (discontinued, sub [13 w/ MediaMod](https://amzn.to/42oBVtE)) player camera.
+* [Panasonic V785K](https://amzn.to/3ElUCE5) score camera.
+* Sony CX405 (trash, sub [V785K](https://amzn.to/3ElUCE5)) score camera.
+* 2 x RØDE VideoMic GO (discontinued, sub [VideoMicro II](https://amzn.to/4jLHMQ7)).
+* 2 x [VILTROX L116T LED](https://amzn.to/3WBWPBL) lights.
+* 5 x 30,000mAh RAVPower (discontinued, sub [Alfox/Ravpower/AMEGAT/UGREEN 200W 25000mAh](https://amzn.to/40659eB) or [HenHot 30,000mAh](https://amzn.to/4m54Byo)) banks.
 
 The broadcast station: 
 
-* [Razer Blade 15 2020](https://amzn.to/4giZjvM)
-* [Magewell Quad HDMI](https://amzn.to/3WyM7Mv) in a [SonnetTech](https://amzn.to/4hssBsU) enclosure
-* 3 x CineEye 2S Pro (discontinued, sub [CineView HE](https://amzn.to/3CxGXcA)) receivers
-* Canon VIXIA HF R800 (discontinued, sub anything) broadcast talent camera
-* [Logitech Litra Glow](https://amzn.to/4giYP8W) player light
-* Rodecaster Pro (the old model, sub with [Rodecaster Duo 2](https://amzn.to/40yEbM9))
+* [Razer Blade 15 2020](https://amzn.to/4giZjvM).
+* [Magewell Quad HDMI](https://amzn.to/3WyM7Mv) in a [SonnetTech](https://amzn.to/4hssBsU) enclosure.
+* 3 x CineEye 2S Pro (discontinued, sub [CineView HE](https://amzn.to/3CxGXcA)) receivers.
+* Canon VIXIA HF R800 (discontinued, sub anything) broadcast talent camera.
+* [Logitech Litra Glow](https://amzn.to/4giYP8W) player light.
+* Rodecaster Pro (the old model, sub with [Rodecaster Duo 2](https://amzn.to/40yEbM9)).
 * 2 x [Audio-Technica BPHS1](https://amzn.to/3Wzt4l6) headsets
 
 Two rifle cases ([Harbor Freight models](https://www.harborfreight.com/9800-weatherproof-protective-rifle-case-long-black-64520.html)) to hold all the gear.
 
 {% include feature_row id="feature_row3" type="left" %}
 
+# Underground Arcade
+
+The TBA rig was built on an existing tnutz t-slot provided by the arcade. This is primarily a tournament rig for a permanent location. It can be split in half and folded over if you really want but it's a delicate process that would require two people to pull off. Certain parts would unscrew as most mounts are threaded to tighten with their weight when hung normally.
+
+The bottom line for the equipment used for the rig landed at $9,523.15 (excluding t-slot and laptop) and took around 30 hours from research to first stream. Have this in mind before hitting that [connect](https://dri374.live/connect) link.
+
+<figure class="align-right" style="width: 20%">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/gear/tba-2026-10-11.jpg" alt="" />
+  <figcaption>The rig built for an underground arcade.</figcaption>
+</figure>
+* [LUMIX GH5M2](https://amzn.to/42pZZfJ) playfield camera with a [LUMIX 12-35mm](https://amzn.to/4yb9Pyl) lens.
+* [LUMIX GH5M2](https://amzn.to/42pZZfJ) player camera with a [Laowa 6mm f/2 Zero-D](https://www.venuslens.net/product/laowa-6mm-f-2-zero-d-mft/) lens (B&H stock them).
+* [Panasonic V900](https://amzn.to/4ybuBO3) camcorder score camera.
+* [OREI UHD-401MV 4x1](https://amzn.to/4hu6cLV) 4K60 HDMI Multi-Viewer.
+* [KiloView N60](https://amzn.to/4jyquFN) NDI encoder.
+* [TP-Link AXE5400](https://amzn.to/3VJ6OHR) mesh access point.
+* 2 x [RØDE VideoMicro II](https://amzn.to/3L73Vev). Player and backbox only.
+* [Maker hart Just Mic 4 mini](https://amzn.to/43qsDft) mixer.
+* [Audio-Technica ATH-M20x](https://amzn.to/3UiO8hO) headphones for monitoring at the rig.
+* 2 x [VILTROX L116T](https://amzn.to/3WBWPBL) LED lights for playfield and player.
+* 5 x [AOHI 40000mAh 140W](https://amzn.to/4e7hvKB) batteries, these support non-disruptive [pass-through charging](https://youtube.com/shorts/zYpN0YmWcZQ?feature=share) but don't let them go below 10%.
+* 5 x [AOHI Youth 65W GaN+ USB-C Wall Charger](https://amzn.to/4B1yfge) chargers (I intentionally picked 65W here to save the cells, the battery will accept up to 140W input).
+
+The broadcast station (no commentary):
+
+* [msi Vector 16 HX](https://amzn.to/4jOevq7) with 32GB of RAM and a 5070Ti chip.
+* [TP-Link AXE5400](https://amzn.to/3VJ6OHR) base router.
+
+{% include feature_row id="feature_row5" type="right" %}
+
 # Changelog
 <!-- update last_modified_at in header -->
+* 2026-10-11: Added TBA rig and the latest updates to the event rig.
 * 2026-08-30: Added "For sale" rig.
 * 2026-05-08: Added Core SWX batteries and clarified the power situation. Replaced AVerMedia with Magewell.
 * 2026-02-19: Added another Kiloview N60 to the wireless setup for decoding (offloading my poor Mac). Replaced G/GX85 for G97 as sub and the pocket rig now sports a G97 playfield camera with a nice prime lens that lets in more light ([example](https://www.youtube.com/watch?v=jBHqMwlH4Sw)). Clarified power banks, again.
