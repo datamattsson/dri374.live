@@ -385,14 +385,16 @@ Two rifle cases ([Harbor Freight models](https://www.harborfreight.com/9800-weat
 
 The TBA rig was built on an existing tnutz t-slot provided by the arcade. This is primarily a tournament rig for a permanent location. It can be split in half and folded over if you really want but it's a delicate process that would require two people to pull off. Certain parts would unscrew as most mounts are threaded to tighten with their weight when hung normally.
 
-The bottom line for the equipment used for the rig landed at $9,523.15 (excluding t-slot and laptop) and took around 30 hours from research to first stream. Have this in mind before hitting that [connect](https://dri374.live/connect) link.
+The bottom line for the gear, mounts and cables etc used for the rig landed at $9500 (excluding t-slot and gaming laptop) and took around 30 hours from research to first stream. Have this in mind before hitting that [connect](https://dri374.live/connect) link.
+
+Example videos of what this rig produces are available [here](https://youtu.be/nnofEkAz6KI) (CSI) and [here](https://youtu.be/ASiTfwKjRHw) (ALIEN LV).
 
 <figure class="align-right" style="width: 20%">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/gear/tba-2026-10-11.jpg" alt="" />
   <figcaption>The rig built for an underground arcade.</figcaption>
 </figure>
-* [LUMIX GH5M2](https://amzn.to/42pZZfJ) playfield camera with a [LUMIX 12-35mm](https://amzn.to/4yb9Pyl) lens.
-* [LUMIX GH5M2](https://amzn.to/42pZZfJ) player camera with a [Laowa 6mm f/2 Zero-D](https://www.venuslens.net/product/laowa-6mm-f-2-zero-d-mft/) lens (B&H stock them).
+* [LUMIX GH5M2](https://amzn.to/42pZZfJ) playfield camera with a [Panasonic Leica 12-35mm](https://amzn.to/4yb9Pyl) lens.
+* [LUMIX GH5M2](https://amzn.to/42pZZfJ) player camera with a [Laowa 6mm f/2 Zero-D](https://www.venuslens.net/product/laowa-6mm-f-2-zero-d-mft/) lens ([B&H stock them](https://www.bhphotovideo.com/c/product/1748385-REG/venus_optics_ve620mft_laowa_6mm_f_2_zero_d.html)).
 * [Panasonic V900](https://amzn.to/4ybuBO3) camcorder score camera.
 * [OREI UHD-401MV 4x1](https://amzn.to/4hu6cLV) 4K60 HDMI Multi-Viewer.
 * [KiloView N60](https://amzn.to/4jyquFN) NDI encoder.
