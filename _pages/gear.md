@@ -3,7 +3,7 @@ layout: splash
 title: GEAR FOR PINBALL AND ARCADE STREAMING
 permalink: /gear
 date: 2025-01-26T00:00
-last_modified_at: 2026-10-11T00:00
+last_modified_at: 2026-10-25T00:00
 header:
   video:
     id: AUOamxsqLo8
@@ -35,12 +35,12 @@ feature_row3:
     btn_label: 'Watch LIVE on Twitch <i class="fa-solid fa-arrow-up-right-from-square"></i>'
     btn_class: "btn--inverse"
 feature_row4:
-  - image_path: /assets/images/gear/blank-16x9.png
-    alt: "For sale"
-    title: "TBD"
-    excerpt: "This rig is for sale!"
-    url: "https://dri374.live/gear"
-    btn_label: 'dri374.live/gear <i class="fa-solid fa-arrow-up-right-from-square"></i>'
+  - image_path: /assets/images/gear/cpp-16x9.png
+    alt: "TWITCH.TV/CAPITALPINBALLPARLOR"
+    title: "Capital Pinball Parlor"
+    excerpt: "Capital Pinball Parlor is Sacramento's premier destination for pinball enthusiasts of all skill levels. Whether you're a seasoned player or just discovering the joy of pinball, we provide a welcoming environment with an amazing collection of machines."
+    url: "https://twitch.tv/capitalpinballparlor"
+    btn_label: 'Watch LIVE on Twitch <i class="fa-solid fa-arrow-up-right-from-square"></i>'
     btn_class: "btn--inverse"
 feature_row5:
   - image_path: /assets/images/gear/blank-16x9.png
@@ -79,10 +79,10 @@ This page contains the rough bill of materials for various streaming rig setups 
 - [The Pocket Rig](#the-pocket-rig) (tournament and event rig)
 - [The Flying B-Cam](#the-flying-b-cam) (the unboxing setup)
 - [Miscellaneous](#miscellaneous) (my favorite nick-nacks)
-- [For Sale](#for-sale) (a project rig for sale)
 - [Lynn's Arcade](#lynns-arcade) in Seaside, CA
 - [The Rewind Arcade](#the-rewind-arcade) in Sebastopol, CA
 - [Underground Arcade](#underground-arcade) in Undisclosed, US
+- [Capital Pinball Parlor](#capital-pinball-parlor) in Sacramento, CA
 
 Make sure to check out the [Start Streaming Pinball!](https://youtu.be/AUOamxsqLo8) ([slides](https://bit.ly/gspf2024)) talk on YouTube and join us on Discord to discuss [#diy-builds-and-broadcasts](https://pinballpeople.com/) with the Pinball People.
 
@@ -118,7 +118,7 @@ The home arcade pinball rig has evolved since early 2020 when I built a makeshif
 * [Shure PGA52-XLR](https://amzn.to/3E7xd9E) cabinet mic on the other dbx 166xs (discontinued, sub [dbx 266xs](https://amzn.to/4jvoYEr)) channel.
 * [Mackie 1202VLZ4](https://amzn.to/3CdY6It) mixer.
 * [LUMIX GH5M2](https://amzn.to/42pZZfJ) playfield camera with a [LUMIX 10-25mm](https://amzn.to/3KQHaLL) lens.
-* [LUMIX GH5M2](https://amzn.to/42pZZfJ) player camera with a [LUMIX 9mm](https://amzn.to/42E4HWx) lens.
+* [LUMIX GH5M2](https://amzn.to/42pZZfJ) player camera with a [LUMIX 9mm](https://amzn.to/42E4HWx) lens with a [PolarPro split focus filter](https://link.amazon/B029cihRn) and an [ND2 filter](https://link.amazon/B0fFdfI65) for style.
 * LUMIX GX85 (discontinued, [G97](https://amzn.to/4auuULC) sub) score camera with various lenses, most recently [LUMIX G 25mm](https://amzn.to/4h4jZcV) (works great for DMDs).
 * [LUMIX GH5M2](https://amzn.to/42pZZfJ) B camera with various lenses but [LUMIX 12-60mm](https://amzn.to/4n133Wk) most of the time.
 * [Accsoon CineView HE](https://amzn.to/3CxGXcA) for local program output to the studio TV.
@@ -290,36 +290,6 @@ The batteries I currently buy are the [Core SWX Powerbase Edge Snap Xtreme](http
 
 {% include feature_row id="feature_row1" type="left" %}
 
-# For Sale
-
-<figure class="align-right" style="width: 33%">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/gear/for-sale-rig-2026-08-30.jpg" alt="" />
-  <figcaption>Testing, testing....</figcaption>
-</figure>
-This is the current project rig that is for sale. It may already be sold. Watch a demo of what [this equipment is capable of](https://youtu.be/1eOcqPbpwjo) on YouTube.
-
-Built from leftovers designed for tournament streaming. It's turnkey and includes everything needed to start streaming. Does not include a computer. The capture card it comes with is a standard UVC capture card and works on any OS. Worth noting is that there is no commentary solution included. The entire rig fits into a single [rifle case](https://www.harborfreight.com/9800-weatherproof-protective-rifle-case-long-black-64520.html) that is included. Requires line of sight between the rig and streaming computer.
-
-* Standard 8020 rig that fits over wide body games and under standard door frames. Black finish. Can be broken down to flight case lengths if needed. Some parts are new, some are old. Includes T-handles for assembly and roller skate wheels.
-* Four power banks (RAVPower and UGREEN) with about eight hours of runtime, includes four 30W chargers.
-* [VILTROX L116T](https://amzn.to/3WBWPBL) playfield light with custom hood
-* [Logitech Litra Glow](https://amzn.to/4giYP8W) player light with custom hood
-* Monoprice 1080p60 (discontinued, sub [OREI UHD-401MV 4x1 HDMI Multi-Viewer](https://amzn.to/4hu6cLV)) multiviewer with remote
-* [Monoprice WiHD](https://amzn.to/3Sxo0Pr) transmitter on a rotatable rod
-* [Monoprice WiHD](https://amzn.to/3Sxo0Pr) receiver with a rotatable desk clamp
-* RØDE VideoMic GO (discontinued, sub [VideoMicro GO II](https://amzn.to/4gId6hQ)) for player
-* RØDE VideoMic GO (discontinued, sub [VideoMicro GO II](https://amzn.to/4gId6hQ)) for backbox
-* LUMIX G85 (discontinued, sub [G97](https://amzn.to/4auuULC)) player camera with a [Panasonic LUMIX G 14mm/F2.5](https://amzn.to/4qRnCIo) lens.
-* Panasonic V785K (discontinued, sub [V900](https://amzn.to/4gId6hQ)) playfield camera
-* Panasonic V785K (discontinued, sub [V900](https://amzn.to/4gId6hQ)) score camera with wide angle filter (streams Banzai Run like a breeze!)
-* [Elgato HD60 X](https://amzn.to/45WZWbU) capture card (requires USB 3.0 5Gbit/s)
-* Includes all cabling, color coded where needed, one single harness that snaps onto the t-slot. 
-* Includes several t-slot extensions, magic arms and mounts.
-
-Interested? [Connect](connect).
-
-{% include feature_row id="feature_row4" type="right" %}
-
 # Lynn's Arcade
 
 The rig at Lynn's I originally built for myself but the arcade decided to buy it. There's been a few upgrades over the years and this list is the current known list of equipment.
@@ -381,6 +351,34 @@ Two rifle cases ([Harbor Freight models](https://www.harborfreight.com/9800-weat
 
 {% include feature_row id="feature_row3" type="left" %}
 
+# Capital Pinball Parlor
+
+<figure class="align-right" style="width: 33%">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/gear/for-sale-rig-2026-08-30.jpg" alt="" />
+  <figcaption>Capital Pinball Parlor</figcaption>
+</figure>
+Watch a demo of what [this equipment is capable of](https://youtu.be/1eOcqPbpwjo) on YouTube.
+
+Built from leftovers designed for tournament streaming. It's turnkey and includes everything needed to start streaming. Does not include a computer. The capture card it comes with is a standard UVC capture card and works on any OS. Worth noting is that there is no commentary solution included. The entire rig fits into a single [rifle case](https://www.harborfreight.com/9800-weatherproof-protective-rifle-case-long-black-64520.html) that is included. Requires line of sight between the rig and streaming computer.
+
+* Standard 8020 rig that fits over wide body games and under standard door frames. Black finish. Can be broken down to flight case lengths if needed. Some parts are new, some are old. Includes T-handles for assembly and roller skate wheels.
+* Four power banks (RAVPower and UGREEN) with about eight hours of runtime, includes four 30W chargers.
+* [VILTROX L116T](https://amzn.to/3WBWPBL) playfield light with custom hood
+* [Logitech Litra Glow](https://amzn.to/4giYP8W) player light with custom hood
+* Monoprice 1080p60 (discontinued, sub [OREI UHD-401MV 4x1 HDMI Multi-Viewer](https://amzn.to/4hu6cLV)) multiviewer with remote
+* [Monoprice WiHD](https://amzn.to/3Sxo0Pr) transmitter on a rotatable rod
+* [Monoprice WiHD](https://amzn.to/3Sxo0Pr) receiver with a rotatable desk clamp
+* RØDE VideoMic GO (discontinued, sub [VideoMicro GO II](https://amzn.to/4gId6hQ)) for player
+* RØDE VideoMic GO (discontinued, sub [VideoMicro GO II](https://amzn.to/4gId6hQ)) for backbox
+* LUMIX G85 (discontinued, sub [G97](https://amzn.to/4auuULC)) player camera with a [Panasonic LUMIX G 14mm/F2.5](https://amzn.to/4qRnCIo) lens.
+* Panasonic V785K (discontinued, sub [V900](https://amzn.to/4gId6hQ)) playfield camera
+* Panasonic V785K (discontinued, sub [V900](https://amzn.to/4gId6hQ)) score camera with wide angle filter (streams Banzai Run like a breeze!)
+* [Elgato HD60 X](https://amzn.to/45WZWbU) capture card (requires USB 3.0 5Gbit/s)
+* Includes all cabling, color coded where needed, one single harness that snaps onto the t-slot. 
+* Includes several t-slot extensions, magic arms and mounts.
+
+{% include feature_row id="feature_row4" type="right" %}
+
 # Underground Arcade
 
 The TBA rig was built on an existing tnutz t-slot provided by the arcade. This is primarily a tournament rig for a permanent location. It can be split in half and folded over if you really want but it's a delicate process that would require two people to pull off. Certain parts would unscrew as most mounts are threaded to tighten with their weight when hung normally.
@@ -411,10 +409,11 @@ The broadcast station (no commentary):
 * [msi Vector 16 HX](https://amzn.to/4jOevq7) with 32GB of RAM and a 5070Ti chip.
 * [TP-Link AXE5400](https://amzn.to/3VJ6OHR) base router.
 
-{% include feature_row id="feature_row5" type="right" %}
+{% include feature_row id="feature_row5" type="left" %}
 
 # Changelog
 <!-- update last_modified_at in header -->
+* 2026-10-25: Added Capital Pinball Parlor and center split filter for studio rig.
 * 2026-10-11: Added TBA rig and the latest updates to the event rig.
 * 2026-08-30: Added "For sale" rig.
 * 2026-05-08: Added Core SWX batteries and clarified the power situation. Replaced AVerMedia with Magewell.
